@@ -1,0 +1,508 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "id": "99d5a0ce-897d-4888-b871-d3f1d6f79849",
+  "prevId": "00000000-0000-0000-0000-000000000000",
+  "tables": {
+    "district_data_bn": {
+      "name": "district_data_bn",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "name": {
+          "name": "name",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "div_bn_id": {
+          "name": "div_bn_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "dist_bn_id": {
+          "name": "dist_bn_id",
+          "columns": [
+            "id"
+          ],
+          "isUnique": true
+        }
+      },
+      "foreignKeys": {
+        "district_data_bn_div_bn_id_division_data_bn_id_fk": {
+          "name": "district_data_bn_div_bn_id_division_data_bn_id_fk",
+          "tableFrom": "district_data_bn",
+          "tableTo": "division_data_bn",
+          "columnsFrom": [
+            "div_bn_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {}
+    },
+    "district_data_en": {
+      "name": "district_data_en",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "name": {
+          "name": "name",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "div_en_id": {
+          "name": "div_en_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "dist_en_id": {
+          "name": "dist_en_id",
+          "columns": [
+            "id"
+          ],
+          "isUnique": true
+        }
+      },
+      "foreignKeys": {
+        "district_data_en_div_en_id_division_data_en_id_fk": {
+          "name": "district_data_en_div_en_id_division_data_en_id_fk",
+          "tableFrom": "district_data_en",
+          "tableTo": "division_data_en",
+          "columnsFrom": [
+            "div_en_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {}
+    },
+    "division_data_bn": {
+      "name": "division_data_bn",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "name": {
+          "name": "name",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "div_bn_id": {
+          "name": "div_bn_id",
+          "columns": [
+            "id"
+          ],
+          "isUnique": true
+        }
+      },
+      "foreignKeys": {},
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {}
+    },
+    "division_data_en": {
+      "name": "division_data_en",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "name": {
+          "name": "name",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "div_en_id": {
+          "name": "div_en_id",
+          "columns": [
+            "id"
+          ],
+          "isUnique": true
+        }
+      },
+      "foreignKeys": {},
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {}
+    },
+    "sub_district_data_bn": {
+      "name": "sub_district_data_bn",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "name": {
+          "name": "name",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "div_bn_id": {
+          "name": "div_bn_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "dist_bn_id": {
+          "name": "dist_bn_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "sub_dist_bn_id": {
+          "name": "sub_dist_bn_id",
+          "columns": [
+            "id"
+          ],
+          "isUnique": true
+        }
+      },
+      "foreignKeys": {
+        "sub_district_data_bn_div_bn_id_division_data_bn_id_fk": {
+          "name": "sub_district_data_bn_div_bn_id_division_data_bn_id_fk",
+          "tableFrom": "sub_district_data_bn",
+          "tableTo": "division_data_bn",
+          "columnsFrom": [
+            "div_bn_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        },
+        "sub_district_data_bn_dist_bn_id_district_data_bn_id_fk": {
+          "name": "sub_district_data_bn_dist_bn_id_district_data_bn_id_fk",
+          "tableFrom": "sub_district_data_bn",
+          "tableTo": "district_data_bn",
+          "columnsFrom": [
+            "dist_bn_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {}
+    },
+    "sub_district_data_en": {
+      "name": "sub_district_data_en",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "name": {
+          "name": "name",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "div_en_id": {
+          "name": "div_en_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "dist_en_id": {
+          "name": "dist_en_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "sub_dist_en_id": {
+          "name": "sub_dist_en_id",
+          "columns": [
+            "id"
+          ],
+          "isUnique": true
+        }
+      },
+      "foreignKeys": {
+        "sub_district_data_en_div_en_id_division_data_en_id_fk": {
+          "name": "sub_district_data_en_div_en_id_division_data_en_id_fk",
+          "tableFrom": "sub_district_data_en",
+          "tableTo": "division_data_en",
+          "columnsFrom": [
+            "div_en_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        },
+        "sub_district_data_en_dist_en_id_district_data_en_id_fk": {
+          "name": "sub_district_data_en_dist_en_id_district_data_en_id_fk",
+          "tableFrom": "sub_district_data_en",
+          "tableTo": "district_data_en",
+          "columnsFrom": [
+            "dist_en_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {}
+    },
+    "union_data_bn": {
+      "name": "union_data_bn",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "name": {
+          "name": "name",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "div_bn_id": {
+          "name": "div_bn_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "dist_bn_id": {
+          "name": "dist_bn_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "sub_dist_bn_id": {
+          "name": "sub_dist_bn_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "union_bn_id": {
+          "name": "union_bn_id",
+          "columns": [
+            "id"
+          ],
+          "isUnique": true
+        }
+      },
+      "foreignKeys": {
+        "union_data_bn_div_bn_id_division_data_bn_id_fk": {
+          "name": "union_data_bn_div_bn_id_division_data_bn_id_fk",
+          "tableFrom": "union_data_bn",
+          "tableTo": "division_data_bn",
+          "columnsFrom": [
+            "div_bn_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        },
+        "union_data_bn_dist_bn_id_district_data_bn_id_fk": {
+          "name": "union_data_bn_dist_bn_id_district_data_bn_id_fk",
+          "tableFrom": "union_data_bn",
+          "tableTo": "district_data_bn",
+          "columnsFrom": [
+            "dist_bn_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        },
+        "union_data_bn_sub_dist_bn_id_sub_district_data_bn_id_fk": {
+          "name": "union_data_bn_sub_dist_bn_id_sub_district_data_bn_id_fk",
+          "tableFrom": "union_data_bn",
+          "tableTo": "sub_district_data_bn",
+          "columnsFrom": [
+            "sub_dist_bn_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {}
+    },
+    "union_data_en": {
+      "name": "union_data_en",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "integer",
+          "primaryKey": true,
+          "notNull": true,
+          "autoincrement": true
+        },
+        "name": {
+          "name": "name",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "div_en_id": {
+          "name": "div_en_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "dist_en_id": {
+          "name": "dist_en_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        },
+        "sub_dist_en_id": {
+          "name": "sub_dist_en_id",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false
+        }
+      },
+      "indexes": {
+        "union_en_id": {
+          "name": "union_en_id",
+          "columns": [
+            "id"
+          ],
+          "isUnique": true
+        }
+      },
+      "foreignKeys": {
+        "union_data_en_div_en_id_division_data_en_id_fk": {
+          "name": "union_data_en_div_en_id_division_data_en_id_fk",
+          "tableFrom": "union_data_en",
+          "tableTo": "division_data_en",
+          "columnsFrom": [
+            "div_en_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        },
+        "union_data_en_dist_en_id_district_data_en_id_fk": {
+          "name": "union_data_en_dist_en_id_district_data_en_id_fk",
+          "tableFrom": "union_data_en",
+          "tableTo": "district_data_en",
+          "columnsFrom": [
+            "dist_en_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        },
+        "union_data_en_sub_dist_en_id_sub_district_data_en_id_fk": {
+          "name": "union_data_en_sub_dist_en_id_sub_district_data_en_id_fk",
+          "tableFrom": "union_data_en",
+          "tableTo": "sub_district_data_en",
+          "columnsFrom": [
+            "sub_dist_en_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {}
+    }
+  },
+  "enums": {},
+  "_meta": {
+    "schemas": {},
+    "tables": {},
+    "columns": {}
+  }
+}
