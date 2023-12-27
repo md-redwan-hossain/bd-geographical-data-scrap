@@ -7,7 +7,7 @@ export default {
   strict: true,
   verbose: true,
   dbCredentials: {
-    url: "./medex.db"
+    url: "./data.db"
   },
   introspect: {
     casing: "preserve"
