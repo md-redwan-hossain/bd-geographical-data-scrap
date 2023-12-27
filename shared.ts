@@ -39,9 +39,8 @@ export async function distAndsubDistDataFetcher(
         extractedData.push({ id: valueNumber, name: textContent.split(" ")[0] });
       }
     });
-    console.log(`${domain} ${language} fetch done`);
     return extractedData;
   } catch (error) {
-    console.log(error?.message);
+    console.log("Error:", id, domain, language);
   }
 }
