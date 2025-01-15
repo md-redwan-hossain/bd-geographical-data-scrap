@@ -33,7 +33,9 @@ async function unionDataFetcher(id: string, language: "en" | "bn") {
     if (splitted.length === 0) return extractedData;
 
     splitted.forEach((x) => {
-      if (x) extractedData.push(x);
+      if (x) {
+        extractedData.push(x.trim());
+      }
     });
     return extractedData;
   } catch (error) {
@@ -47,13 +49,13 @@ export async function subDistFetch(
 ) {
   const storage: Array<{
     subDistrictName: string;
-    subDistdata: Array<string>;
+    subDistData: Array<string>;
   }> = [];
 
   for (const elem of data) {
     storage.push({
-      subDistrictName: elem.name,
-      subDistdata: (await unionDataFetcher(elem.id, language)) ?? []
+      subDistrictName: elem.name.trim(),
+      subDistData: (await unionDataFetcher(elem.id, language)) ?? []
     });
   }
 

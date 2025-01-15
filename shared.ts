@@ -8,7 +8,7 @@ axiosRetry(axios, {
   }
 });
 
-export async function distAndsubDistDataFetcher(
+export async function distAndSubDistDataFetcher(
   id: string,
   language: "en" | "bn",
   domain: "District" | "Upazilla"

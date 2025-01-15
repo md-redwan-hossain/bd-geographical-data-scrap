@@ -1,20 +1,20 @@
 import { subDistFetch } from "./fetch-sub-dist-data";
-import { distAndsubDistDataFetcher } from "./shared";
+import { distAndSubDistDataFetcher } from "./shared";
 
 export async function distFetch(data: Array<{ id: string; name: string }>, language: "en" | "bn") {
   const storage: Array<{
     districtName: string;
     distData: Array<{
       subDistrictName: string;
-      subDistdata: Array<string>;
+      subDistData: Array<string>;
     }>;
   }> = [];
 
   for (const elem of data) {
-    const innerData = await distAndsubDistDataFetcher(elem.id, language, "Upazilla");
+    const innerData = await distAndSubDistDataFetcher(elem.id, language, "Upazilla");
     if (innerData) {
       storage.push({
-        districtName: elem.name,
+        districtName: elem.name.trim(),
         distData: (await subDistFetch(innerData, language)) ?? []
       });
     }

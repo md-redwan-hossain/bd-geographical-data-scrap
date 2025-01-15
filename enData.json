@@ -1,0 +1,7381 @@
+[
+  {
+    "divisionName": "Dhaka",
+    "divData": [
+      {
+        "districtName": "Narsingdi",
+        "distData": [
+          {
+            "subDistrictName": "Belabo",
+            "subDistData": [
+              "Amlaba",
+              "Bajnaba",
+              "Belabo",
+              "Binnabayd",
+              "Charuzilab",
+              "Naraynpur",
+              "Sallabad",
+              "Patuli",
+              "Diara"
+            ]
+          },
+          {
+            "subDistrictName": "Monohardi",
+            "subDistData": [
+              "Barachapa",
+              "Chalakchar",
+              "Charmandalia",
+              "Ekduaria",
+              "Gotashia",
+              "Kanchikata",
+              "Khidirpur",
+              "Shukundi",
+              "Dawlatpur",
+              "Krisnopur",
+              "Labutala",
+              "Chandanbari"
+            ]
+          },
+          {
+            "subDistrictName": "Narsingdisadar",
+            "subDistData": [
+              "Alokbali",
+              "Chardighaldi",
+              "Chinishpur",
+              "Hajipur",
+              "Karimpur",
+              "Khathalia",
+              "Nuralapur",
+              "Mahishasura",
+              "Meherpara",
+              "Nazarpur",
+              "Paikarchar",
+              "Panchdona",
+              "Silmandi",
+              "Amdia"
+            ]
+          },
+          {
+            "subDistrictName": "Palash",
+            "subDistData": [
+              "Danga",
+              "Charsindur",
+              "Jinardi",
+              "Gazaria"
+            ]
+          },
+          {
+            "subDistrictName": "Raipura",
+            "subDistData": [
+              "Chanpur",
+              "Alipura",
+              "Amirganj",
+              "Adiabad",
+              "Banshgari",
+              "Chanderkandi",
+              "Chararalia",
+              "Charmadhua",
+              "Charsubuddi",
+              "Daukarchar",
+              "Hairmara",
+              "Maheshpur",
+              "Mirzanagar",
+              "Mirzarchar",
+              "Nilakhya",
+              "Palashtali",
+              "Paratali",
+              "Sreenagar",
+              "Roypura",
+              "Musapur",
+              "Uttarbakharnagar",
+              "Marjal2"
+            ]
+          },
+          {
+            "subDistrictName": "Shibpur",
+            "subDistData": [
+              "Dulalpur",
+              "Joynagar",
+              "Sadharchar",
+              "Masimpur",
+              "Chakradha",
+              "Joshar",
+              "Baghabo",
+              "Ayubpur",
+              "Putia"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Gazipur",
+        "distData": [
+          {
+            "subDistrictName": "Kaliganj",
+            "subDistData": [
+              "Bahadursadi",
+              "Baktarpur",
+              "Jamalpurnew",
+              "Jangalia",
+              "Moktarpur",
+              "Nagari",
+              "Tumulia"
+            ]
+          },
+          {
+            "subDistrictName": "Kaliakair",
+            "subDistData": [
+              "Atabaha",
+              "Boali",
+              "Chapair",
+              "Dhaliora",
+              "Fulbaria",
+              "Madhyapara",
+              "Mouchak",
+              "Sutrapur",
+              "Srifaltali"
+            ]
+          },
+          {
+            "subDistrictName": "Kapasia",
+            "subDistData": [
+              "Barishaba",
+              "Ghagotia",
+              "Kapasia",
+              "Chandpur",
+              "Targoan",
+              "Karihata",
+              "Tokh",
+              "Sinhasree",
+              "Durgapur",
+              "Sonmania",
+              "Rayed"
+            ]
+          },
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Baria",
+              "Basan",
+              "Gachha",
+              "Kashimpur",
+              "Kayaltia",
+              "Konabari",
+              "Mirzapur",
+              "Pubail"
+            ]
+          },
+          {
+            "subDistrictName": "Sreepur",
+            "subDistData": [
+              "Barmi",
+              "Gazipur",
+              "Gosinga",
+              "Maona",
+              "Kaoraid",
+              "Prahladpur",
+              "Rajabari",
+              "Telihati"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Shariatpur",
+        "distData": [
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Binodpur",
+              "Tulasar",
+              "Palong",
+              "Domshar",
+              "Rudrakar",
+              "Angaria",
+              "Chitolia",
+              "Mahmudpur",
+              "Chikondi",
+              "Chandrapur",
+              "Shulpara"
+            ]
+          },
+          {
+            "subDistrictName": "Naria",
+            "subDistData": [
+              "Kedarpur",
+              "Dingamanik",
+              "Garishar",
+              "Nowpara",
+              "Moktererchar",
+              "Charatra",
+              "Rajnagar",
+              "Japsa",
+              "Vojeshwar",
+              "Fategongpur",
+              "Bijari",
+              "Vumkhara",
+              "Nashason"
+            ]
+          },
+          {
+            "subDistrictName": "Zajira",
+            "subDistData": [
+              "Zajirasadar",
+              "Mulna",
+              "Barokandi",
+              "Bilaspur",
+              "Kundarchar",
+              "Palerchar",
+              "Purbanawdoba",
+              "Nawdoba",
+              "Shenerchar",
+              "Bknagar",
+              "Barogopalpur",
+              "Jaynagor"
+            ]
+          },
+          {
+            "subDistrictName": "Gosairhat",
+            "subDistData": [
+              "Nagerpara",
+              "Alaolpur",
+              "Kodalpur",
+              "Goshairhat",
+              "Edilpur",
+              "Nalmuri",
+              "Samontasar",
+              "Kuchipatti"
+            ]
+          },
+          {
+            "subDistrictName": "Bhedarganj",
+            "subDistData": [
+              "Ramvadrapur",
+              "Mahisar",
+              "Saygaon",
+              "Narayanpur",
+              "Dmkhali",
+              "Charkumaria",
+              "Sakhipur",
+              "Kachikata",
+              "Northtarabunia",
+              "Charvaga",
+              "Arsinagar",
+              "Southtarabunia",
+              "Charsensas"
+            ]
+          },
+          {
+            "subDistrictName": "Damudya",
+            "subDistData": [
+              "Shidulkura",
+              "Kaneshar",
+              "Purbadamudya",
+              "Islampur",
+              "Dankati",
+              "Sidya",
+              "Darulaman"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Narayanganj",
+        "distData": [
+          {
+            "subDistrictName": "Araihazar",
+            "subDistData": [
+              "Satgram",
+              "Duptara",
+              "Brahammandi",
+              "Fatepur",
+              "Bishnandi",
+              "Mahmudpur",
+              "Highjadi",
+              "Uchitpura",
+              "Kalapaharia",
+              "KagkandaUP"
+            ]
+          },
+          {
+            "subDistrictName": "Bandar",
+            "subDistData": [
+              "Musapur",
+              "Modonpur",
+              "Bandar",
+              "Dhamgar",
+              "Kolagathia"
+            ]
+          },
+          {
+            "subDistrictName": "Narayanganjsadar",
+            "subDistData": [
+              "Alirtek",
+              "Kashipur",
+              "Kutubpur",
+              "Gognagar",
+              "Baktaboli",
+              "Enayetnagor"
+            ]
+          },
+          {
+            "subDistrictName": "Rupganj",
+            "subDistData": [
+              "Murapara",
+              "Bhulta",
+              "Golakandail",
+              "Daudpur",
+              "Rupganj",
+              "Kayetpara",
+              "Bholobo"
+            ]
+          },
+          {
+            "subDistrictName": "Sonargaon",
+            "subDistData": [
+              "Pirojpur",
+              "Shambhupura",
+              "Mograpara",
+              "Baidyerbazar",
+              "Baradi",
+              "Noagaon",
+              "Jampur",
+              "Sadipur",
+              "Sonmandi",
+              "Kanchpur"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Tangail",
+        "distData": [
+          {
+            "subDistrictName": "Basail",
+            "subDistData": [
+              "Basail",
+              "Kanchanpur",
+              "Habla",
+              "Kashil",
+              "Fulki",
+              "Kauljani"
+            ]
+          },
+          {
+            "subDistrictName": "Bhuapur",
+            "subDistData": [
+              "Arjuna",
+              "Gabshara",
+              "Falda",
+              "Gobindashi",
+              "Aloa",
+              "Nikrail"
+            ]
+          },
+          {
+            "subDistrictName": "Delduar",
+            "subDistData": [
+              "Deuli",
+              "Lauhati",
+              "Patharail",
+              "Delduar",
+              "Fazilhati",
+              "Elasin",
+              "Atia",
+              "Dubail"
+            ]
+          },
+          {
+            "subDistrictName": "Ghatail",
+            "subDistData": [
+              "Deulabari",
+              "Ghatail",
+              "Jamuria",
+              "Lokerpara",
+              "Anehola",
+              "Dighalkandia",
+              "Digar",
+              "Deopara",
+              "Sandhanpur",
+              "Rasulpur",
+              "Dhalapara"
+            ]
+          },
+          {
+            "subDistrictName": "Gopalpur",
+            "subDistData": [
+              "Hadera",
+              "Jhawail",
+              "Nagdashimla",
+              "Dhopakandi",
+              "Alamnagor",
+              "Hemnagor",
+              "Mirzapur"
+            ]
+          },
+          {
+            "subDistrictName": "Madhupur",
+            "subDistData": [
+              "Alokdia",
+              "Aushnara",
+              "Aronkhola",
+              "Sholakuri",
+              "Golabari",
+              "Mirjabari"
+            ]
+          },
+          {
+            "subDistrictName": "Mirzapur",
+            "subDistData": [
+              "Mahera",
+              "Jamurki",
+              "Fatepur",
+              "Banail",
+              "Anaitara",
+              "Warshi",
+              "Bhatram",
+              "Bahuria",
+              "Gorai",
+              "Ajgana",
+              "Tarafpur",
+              "Bastail",
+              "Baora",
+              "Latifpur"
+            ]
+          },
+          {
+            "subDistrictName": "Nagarpur",
+            "subDistData": [
+              "Bharra",
+              "Sahabathpur",
+              "Goyhata",
+              "Solimabad",
+              "Nagorpur",
+              "Mamudnagor",
+              "Mokna",
+              "Pakutia",
+              "Bekrahatgram",
+              "Dhuburia",
+              "Bhadra",
+              "Doptior"
+            ]
+          },
+          {
+            "subDistrictName": "Sakhipur",
+            "subDistData": [
+              "Kakrajan",
+              "Gajaria",
+              "Jaduppur",
+              "Hatibandha",
+              "Kalia",
+              "Dariapur",
+              "Bahuria",
+              "Baharatoil"
+            ]
+          },
+          {
+            "subDistrictName": "Tangailsadar",
+            "subDistData": [
+              "Mogra",
+              "Gala",
+              "Gharinda",
+              "Karatia",
+              "Silimpur",
+              "Porabari",
+              "Dyenna",
+              "Baghil",
+              "Kakua",
+              "Hugra",
+              "Katuli",
+              "Mahamudnagar"
+            ]
+          },
+          {
+            "subDistrictName": "Kalihati",
+            "subDistData": [
+              "Durgapur",
+              "Birbashinda",
+              "Narandia",
+              "Shahadebpur",
+              "Kokdahara",
+              "Balla",
+              "Salla",
+              "Nagbari",
+              "Bangra",
+              "Paikora",
+              "Dashokia",
+              "Parkhi",
+              "Gohaliabari"
+            ]
+          },
+          {
+            "subDistrictName": "Dhanbari",
+            "subDistData": [
+              "Dhopakhali",
+              "Paiska",
+              "Mushuddi",
+              "Bolibodrow",
+              "Birtara",
+              "Baniajan",
+              "Jadunathpur"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Kishoreganj",
+        "distData": [
+          {
+            "subDistrictName": "Itna",
+            "subDistData": [
+              "Chawganga",
+              "Joysiddi",
+              "Alonjori",
+              "Badla",
+              "Boribari",
+              "Itna",
+              "Mriga",
+              "Dhonpur",
+              "Raytoti"
+            ]
+          },
+          {
+            "subDistrictName": "Katiadi",
+            "subDistData": [
+              "Banagram",
+              "Shahasramdhuldia",
+              "Kargaon",
+              "Chandpur",
+              "Mumurdia",
+              "Acmita",
+              "Mosua",
+              "Lohajuree",
+              "Jalalpur"
+            ]
+          },
+          {
+            "subDistrictName": "Bhairab",
+            "subDistData": [
+              "Sadekpur",
+              "Aganagar",
+              "Shimulkandi",
+              "Gajaria",
+              "Kalikaprashad",
+              "Sreenagar",
+              "Shibpur"
+            ]
+          },
+          {
+            "subDistrictName": "Tarail",
+            "subDistData": [
+              "Taljanga",
+              "Rauti",
+              "Dhola",
+              "Jawar",
+              "Damiha",
+              "Digdair",
+              "Tarailsachail"
+            ]
+          },
+          {
+            "subDistrictName": "Hossainpur",
+            "subDistData": [
+              "Jinari",
+              "Gobindapur",
+              "Sidhla",
+              "Araibaria",
+              "Sahedal",
+              "Pumdi"
+            ]
+          },
+          {
+            "subDistrictName": "Pakundia",
+            "subDistData": [
+              "Jangalia",
+              "Hosendi",
+              "Narandi",
+              "Shukhia",
+              "Patuavabga",
+              "Chandipasha",
+              "Charfaradi",
+              "Burudia",
+              "Egarasindur",
+              "Pakundia"
+            ]
+          },
+          {
+            "subDistrictName": "Kuliarchar",
+            "subDistData": [
+              "Ramdi",
+              "Osmanpur",
+              "Chhaysuti",
+              "Salua",
+              "Gobariaabdullahpur",
+              "Faridpur"
+            ]
+          },
+          {
+            "subDistrictName": "Kishoreganjsadar",
+            "subDistData": [
+              "Rashidabad",
+              "Latibabad",
+              "Maizkhapan",
+              "Mohinanda",
+              "Joshodal",
+              "Bowlai",
+              "Binnati",
+              "Maria",
+              "Chowddoshata",
+              "Karshakarial",
+              "Danapatuli"
+            ]
+          },
+          {
+            "subDistrictName": "Karimgonj",
+            "subDistData": [
+              "Kadirjangal",
+              "Gujadia",
+              "Kiraton",
+              "Barogharia",
+              "Niamatpur",
+              "Dehunda",
+              "Sutarpara",
+              "Gunodhar",
+              "Joyka",
+              "Zafrabad",
+              "Noabad"
+            ]
+          },
+          {
+            "subDistrictName": "Bajitpur",
+            "subDistData": [
+              "Kailag",
+              "Pirijpur",
+              "Gazirchar",
+              "Hilochia",
+              "Maijchar9",
+              "Homypur",
+              "Halimpur",
+              "Sararchar",
+              "Dilalpur",
+              "Dighirpar",
+              "Boliardi"
+            ]
+          },
+          {
+            "subDistrictName": "Austagram",
+            "subDistData": [
+              "Dewghar",
+              "Kastul",
+              "Austagramsadar",
+              "Bangalpara",
+              "Kalma",
+              "Adampur",
+              "Khyerpurabdullahpur",
+              "Purbaaustagram"
+            ]
+          },
+          {
+            "subDistrictName": "Mithamoin",
+            "subDistData": [
+              "Gopdighi",
+              "Mithamoin",
+              "Dhaki",
+              "Ghagra",
+              "Keoarjore",
+              "Katkhal",
+              "Bairati"
+            ]
+          },
+          {
+            "subDistrictName": "Nikli",
+            "subDistData": [
+              "Chatirchar",
+              "Guroi",
+              "Jaraitala",
+              "Niklisadar",
+              "Karpasa",
+              "Dampara",
+              "Singpur"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Manikganj",
+        "distData": [
+          {
+            "subDistrictName": "Harirampur",
+            "subDistData": [
+              "Balla",
+              "Gala",
+              "Chala",
+              "Blara",
+              "Harukandi",
+              "Baira",
+              "Ramkrishnapur",
+              "Gopinathpur",
+              "Kanchanpur",
+              "Lacharagonj",
+              "Sutalorie",
+              "Dhulsura",
+              "Azimnagar"
+            ]
+          },
+          {
+            "subDistrictName": "Saturia",
+            "subDistData": [
+              "Baried",
+              "Dighulia",
+              "Baliyati",
+              "Dargram",
+              "Tilli",
+              "Hargaj",
+              "Saturia",
+              "Dhankora",
+              "Fukurhati"
+            ]
+          },
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Betilamitara",
+              "Jagir",
+              "Atigram",
+              "Dighi",
+              "Putile",
+              "Hatipara",
+              "Vararia",
+              "Nbogram",
+              "Garpara",
+              "Krishnapur"
+            ]
+          },
+          {
+            "subDistrictName": "Gior",
+            "subDistData": [
+              "Paila",
+              "Shingzuri",
+              "Baliyakhora",
+              "Gior",
+              "Bartia",
+              "Baniazuri",
+              "Nalee"
+            ]
+          },
+          {
+            "subDistrictName": "Shibaloy",
+            "subDistData": [
+              "Teota",
+              "Utholi",
+              "Shibaloy",
+              "Ulayel",
+              "Aruoa",
+              "Mohadebpur",
+              "Shimulia"
+            ]
+          },
+          {
+            "subDistrictName": "Doulatpur",
+            "subDistData": [
+              "Charkataree",
+              "Bachamara",
+              "Baghutia",
+              "Zionpur",
+              "Khalshi",
+              "Chakmirpur",
+              "Klia",
+              "Dhamswar"
+            ]
+          },
+          {
+            "subDistrictName": "Singiar",
+            "subDistData": [
+              "Buyra",
+              "Talebpur",
+              "Singiar",
+              "Baldhara",
+              "Zamsha",
+              "Charigram",
+              "Shayesta",
+              "Joymonto",
+              "Dhalla",
+              "Jamirta",
+              "Chandhar"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Dhaka",
+        "distData": [
+          {
+            "subDistrictName": "Savar",
+            "subDistData": [
+              "Savar",
+              "Birulia",
+              "Dhamsona",
+              "Shimulia",
+              "Ashulia",
+              "Yearpur",
+              "Vakurta",
+              "Pathalia",
+              "Bongaon",
+              "Kaundia",
+              "Tetuljhora",
+              "Aminbazar"
+            ]
+          },
+          {
+            "subDistrictName": "Dhamrai",
+            "subDistData": [
+              "Chauhat",
+              "Amta",
+              "Balia",
+              "Jadabpur",
+              "Baisakanda",
+              "Kushura",
+              "Gangutia",
+              "Sanora",
+              "Sutipara",
+              "Sombhag",
+              "Vararia",
+              "Dhamrai",
+              "Kulla",
+              "Rowail",
+              "Suapur",
+              "Nannar"
+            ]
+          },
+          {
+            "subDistrictName": "Keraniganj",
+            "subDistData": [
+              "Hazratpur",
+              "Kalatia",
+              "Taranagar",
+              "Sakta",
+              "Ruhitpur",
+              "Basta",
+              "Kalindi",
+              "Zinzira",
+              "Suvadda",
+              "Taghoria",
+              "Konda",
+              "Aganagar"
+            ]
+          },
+          {
+            "subDistrictName": "Nawabganj",
+            "subDistData": [
+              "Shikaripara",
+              "Joykrishnapur",
+              "Baruakhali",
+              "Nayansree",
+              "Sholla",
+              "Jantrail",
+              "Bandura",
+              "Kalakopa",
+              "Bakshanagar",
+              "Barrah",
+              "Kailail",
+              "Agla",
+              "Galimpur",
+              "Churain"
+            ]
+          },
+          {
+            "subDistrictName": "Dohar",
+            "subDistData": [
+              "Nayabari",
+              "Kusumhathi",
+              "Raipara",
+              "Sutarpara",
+              "Narisha",
+              "Muksudpur",
+              "Mahmudpur",
+              "Bilaspur"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Munshiganj",
+        "distData": [
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Rampal",
+              "Panchashar",
+              "Bajrajogini",
+              "Mohakali",
+              "Charkewar",
+              "Mollakandi",
+              "Adhara",
+              "Shiloy",
+              "Banglabazar"
+            ]
+          },
+          {
+            "subDistrictName": "Sreenagar",
+            "subDistData": [
+              "Baraikhali",
+              "Hashara",
+              "Birtara",
+              "Shologhor",
+              "Sreenagar",
+              "Patabhog",
+              "Shamshiddi",
+              "Kolapara",
+              "Vaggakol",
+              "Bagra",
+              "Rarikhal",
+              "Kukutia",
+              "Atpara",
+              "Tantor"
+            ]
+          },
+          {
+            "subDistrictName": "Sirajdikhan",
+            "subDistData": [
+              "Chitracoat",
+              "Sekhornagar",
+              "Rajanagar",
+              "Keyain",
+              "Basail",
+              "Baluchar",
+              "Latabdi",
+              "Rasunia",
+              "Ichhapura",
+              "Bairagadi",
+              "Malkhanagar",
+              "Madhypara",
+              "Kola",
+              "Joyinshar"
+            ]
+          },
+          {
+            "subDistrictName": "Louhajanj",
+            "subDistData": [
+              "Medinimandal",
+              "Kumarbhog",
+              "Haldia",
+              "Kanaksar",
+              "Lohajangteotia",
+              "Bejgaon",
+              "Baultoli",
+              "Khidirpara",
+              "Gaodia",
+              "Kalma"
+            ]
+          },
+          {
+            "subDistrictName": "Gajaria",
+            "subDistData": [
+              "Gajaria",
+              "Baushia",
+              "Vaberchar",
+              "Baluakandi",
+              "Tengarchar",
+              "Hosendee",
+              "Guagachia",
+              "Imampur"
+            ]
+          },
+          {
+            "subDistrictName": "Tongibari",
+            "subDistData": [
+              "Betka",
+              "Abdullapur",
+              "Sonarongtongibari",
+              "Autshahi",
+              "Arialbaligaon",
+              "Dhipur",
+              "Kathadiashimolia",
+              "Joslong",
+              "Panchgaon",
+              "Kamarkhara",
+              "Hasailbanari",
+              "Dighirpar"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Rajbari",
+        "distData": [
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Mijanpur",
+              "Borat",
+              "Chandoni",
+              "Khangonj",
+              "Banibaha",
+              "Dadshee",
+              "Mulghar",
+              "Basantapur",
+              "Khankhanapur",
+              "Alipur",
+              "Ramkantapur",
+              "Shahidwahabpur",
+              "Panchuria",
+              "Sultanpur"
+            ]
+          },
+          {
+            "subDistrictName": "Goalanda",
+            "subDistData": [
+              "Doulatdia",
+              "Debugram",
+              "Uzancar",
+              "Chotovakla"
+            ]
+          },
+          {
+            "subDistrictName": "Pangsa",
+            "subDistData": [
+              "Bahadurpur",
+              "Habashpur",
+              "Jashai",
+              "Babupara",
+              "Mourat",
+              "Patta",
+              "Sarisha",
+              "Kalimahar",
+              "Kasbamajhail",
+              "Machhpara"
+            ]
+          },
+          {
+            "subDistrictName": "Baliakandi",
+            "subDistData": [
+              "Islampur",
+              "Baharpur",
+              "Nawabpur",
+              "Narua",
+              "Baliakandi",
+              "Janjal",
+              "Jamalpur"
+            ]
+          },
+          {
+            "subDistrictName": "Kalukhali",
+            "subDistData": [
+              "Kalukhali",
+              "Ratandia",
+              "Kalikapur",
+              "Boalia",
+              "Majbari",
+              "Madapur",
+              "Shawrail",
+              "Mrigi"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Madaripur",
+        "distData": [
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Sirkhara",
+              "Bahadurpur",
+              "Kunia",
+              "Peyarpur",
+              "Kandua",
+              "Mastofapur",
+              "Dudkhali",
+              "Kalikapur",
+              "Chilarchar",
+              "Panchkhola",
+              "Ghatmajhi",
+              "Jhaoudi",
+              "Khoajpur",
+              "Rasti",
+              "Dhurail"
+            ]
+          },
+          {
+            "subDistrictName": "Shibchar",
+            "subDistData": [
+              "Shibchar",
+              "Ditiyakhando",
+              "Nilokhe",
+              "Bandarkhola",
+              "Charjanazat",
+              "Madbarerchar",
+              "Panchar",
+              "Sannasirchar",
+              "Kathalbari",
+              "Kutubpur",
+              "Kadirpur",
+              "Vhandarikandi",
+              "Bahertalasouth",
+              "Baheratalanorth",
+              "Baskandi",
+              "Umedpur",
+              "Vhadrasion",
+              "Shiruail",
+              "Dattapara"
+            ]
+          },
+          {
+            "subDistrictName": "Kalkini",
+            "subDistData": [
+              "Alinagar",
+              "Baligram",
+              "Basgari",
+              "Chardoulatkhan",
+              "Dashar",
+              "Enayetnagor",
+              "Gopalpur",
+              "Koyaria",
+              "Kazibakai",
+              "Laxmipur",
+              "Nabogram",
+              "Ramjanpur",
+              "Shahebrampur",
+              "Shikarmongol"
+            ]
+          },
+          {
+            "subDistrictName": "Rajoir",
+            "subDistData": [
+              "Haridasdi-mahendrodi",
+              "Kadambari",
+              "Bajitpur",
+              "Amgram",
+              "Rajoir",
+              "Khaliya",
+              "Ishibpur",
+              "Badarpasa",
+              "Kabirajpur",
+              "Hosenpur",
+              "Paikpara"
+            ]
+          },
+          {
+            "subDistrictName": "Dasar",
+            "subDistData": []
+          }
+        ]
+      },
+      {
+        "districtName": "Gopalganj",
+        "distData": [
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Jalalabad",
+              "Shuktail",
+              "Chandradighalia",
+              "Gopinathpur",
+              "Paikkandi",
+              "Urfi",
+              "Lotifpur",
+              "Satpar",
+              "Sahapur",
+              "Horidaspur",
+              "Ulpur",
+              "Nizra",
+              "Karpara",
+              "Durgapur",
+              "Kajulia",
+              "Majhigati",
+              "Roghunathpur",
+              "Gobra",
+              "Borashi",
+              "Kati",
+              "Boultali"
+            ]
+          },
+          {
+            "subDistrictName": "Kashiani",
+            "subDistData": [
+              "Kashiani",
+              "Hatiara",
+              "Fukura",
+              "Rajpat",
+              "Bethuri",
+              "Nijamkandi",
+              "Sajail",
+              "Mamudpur",
+              "Maheshpur",
+              "Orakandia",
+              "Parulia",
+              "Ratail",
+              "Puisur",
+              "Singa"
+            ]
+          },
+          {
+            "subDistrictName": "Tungipara",
+            "subDistData": [
+              "Kushli",
+              "Gopalpur",
+              "Patgati",
+              "Borni",
+              "Dumaria"
+            ]
+          },
+          {
+            "subDistrictName": "Kotalipara",
+            "subDistData": [
+              "Sadullapur",
+              "Ramshil",
+              "Bandhabari",
+              "Kolabari",
+              "Kushla",
+              "Amtoli",
+              "Pinjuri",
+              "Ghaghor",
+              "Radhaganj",
+              "Hiron",
+              "Kandi"
+            ]
+          },
+          {
+            "subDistrictName": "Muksudpur",
+            "subDistData": [
+              "Ujani",
+              "Nanikhir",
+              "Dignagar",
+              "Poshargati",
+              "Gobindopur",
+              "Khandarpara",
+              "Bohugram",
+              "Banshbaria",
+              "Vabrashur",
+              "Moharajpur",
+              "Batikamari",
+              "Jalirpar",
+              "Raghdi",
+              "Gohala",
+              "Mochna",
+              "Kashalia"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Faridpur",
+        "distData": [
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Ishangopalpur",
+              "Charmadbdia",
+              "Aliabad",
+              "Uttarchannel",
+              "Decreerchar",
+              "Majchar",
+              "Krishnanagar",
+              "Ambikapur",
+              "Kanaipur",
+              "Kaijuri",
+              "Greda"
+            ]
+          },
+          {
+            "subDistrictName": "Alfadanga",
+            "subDistData": [
+              "Buraich",
+              "Alfadanga",
+              "Tagarbanda",
+              "Bana",
+              "Panchuria",
+              "Gopalpur"
+            ]
+          },
+          {
+            "subDistrictName": "Boalmari",
+            "subDistData": [
+              "Boalmari",
+              "Dadpur",
+              "Chatul",
+              "Ghoshpur",
+              "Gunbaha",
+              "Chandpur",
+              "Parameshwardi",
+              "Satair",
+              "Rupapat",
+              "Shekhar",
+              "Moyna"
+            ]
+          },
+          {
+            "subDistrictName": "Sadarpur",
+            "subDistData": [
+              "Charbisnopur",
+              "Akoterchar",
+              "Charnasirpur",
+              "Narikelbariya",
+              "Bhashanchar",
+              "Krishnapur",
+              "Sadarpur",
+              "Charmanair",
+              "Dhaukhali"
+            ]
+          },
+          {
+            "subDistrictName": "Nagarkanda",
+            "subDistData": [
+              "Charjashordi",
+              "Purapara",
+              "Laskardia",
+              "Ramnagar",
+              "Kaichail",
+              "Talma",
+              "Fulsuti",
+              "Dangi",
+              "Kodaliashohidnagar"
+            ]
+          },
+          {
+            "subDistrictName": "Bhanga",
+            "subDistData": [
+              "Gharua",
+              "Nurullagonj",
+              "Manikdha",
+              "Kawlibera",
+              "Nasirabad",
+              "Tujerpur",
+              "Algi",
+              "Chumurdi",
+              "Kalamridha",
+              "Azimnagor",
+              "Chandra",
+              "Hamirdi"
+            ]
+          },
+          {
+            "subDistrictName": "Charbhadrasan",
+            "subDistData": [
+              "Gazirtek",
+              "Charbhadrasan",
+              "Charharirampur",
+              "Charjahukanda"
+            ]
+          },
+          {
+            "subDistrictName": "Madhukhali",
+            "subDistData": [
+              "Madhukhali",
+              "Jahapur",
+              "Gazna",
+              "Megchami",
+              "Raipur",
+              "Bagat",
+              "Dumain",
+              "Nowpara",
+              "Kamarkhali"
+            ]
+          },
+          {
+            "subDistrictName": "Saltha",
+            "subDistData": [
+              "Bhawal",
+              "Atghar",
+              "Mazadia",
+              "Ballabhdi",
+              "Gatti",
+              "Jadunandi",
+              "Ramkantapur",
+              "Sonapur"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "divisionName": "Chattogram",
+    "divData": [
+      {
+        "districtName": "Cumilla",
+        "distData": [
+          {
+            "subDistrictName": "Debidwar",
+            "subDistData": [
+              "Subil",
+              "Gunaighornorth",
+              "Gunaighorsouth",
+              "Boroshalghor",
+              "Rajameher",
+              "Yousufpur",
+              "Rasulpur",
+              "Fatehabad",
+              "Elahabad",
+              "Jafargonj",
+              "Dhampti",
+              "Mohanpur",
+              "Vani",
+              "Barkamta",
+              "Sultanpur"
+            ]
+          },
+          {
+            "subDistrictName": "Barura",
+            "subDistData": [
+              "Aganagar",
+              "Bhabanipur",
+              "Khoshbasnorth",
+              "Khoshbassouth",
+              "Jhalam",
+              "Chitodda",
+              "Shilmurinorth",
+              "Shilmurisouth",
+              "Galimpur",
+              "Shakpur",
+              "Bhaukshar",
+              "Adda",
+              "Adra",
+              "Payalgacha",
+              "Laxmipur"
+            ]
+          },
+          {
+            "subDistrictName": "Brahmanpara",
+            "subDistData": [
+              "Shidli",
+              "Chandla",
+              "Shashidal",
+              "Dulalpurup2",
+              "Brahmanparasadar",
+              "Shahebabad",
+              "Malapara",
+              "Madhabpur"
+            ]
+          },
+          {
+            "subDistrictName": "Chandina",
+            "subDistData": [
+              "Shuhilpur",
+              "Bataghashi",
+              "Joag",
+              "Borcarai",
+              "Madhaiya",
+              "Dollainowabpur",
+              "Mohichial",
+              "Gollai",
+              "Keronkhal",
+              "Maijkhar",
+              "Etberpur",
+              "Barera",
+              "Borcoit"
+            ]
+          },
+          {
+            "subDistrictName": "Chauddagram",
+            "subDistData": [
+              "Sreepur",
+              "Kashinagar",
+              "Kalikapur",
+              "Shuvapur",
+              "Ghulpasha",
+              "Moonshirhat",
+              "Batisha",
+              "Kankapait",
+              "Cheora",
+              "Jagannatdighi",
+              "Goonabati",
+              "Alkara",
+              "Ujirpur"
+            ]
+          },
+          {
+            "subDistrictName": "Daudkandi",
+            "subDistData": [
+              "Doulotpur",
+              "Daudkandinorth",
+              "Eliotgonjnorth",
+              "Eliotgonjsouth",
+              "Zinglatoli",
+              "Sundolpur",
+              "Gouripur",
+              "Mohammadpureast",
+              "Mohammadpurwest",
+              "Goalmari",
+              "Maruka",
+              "Betessor",
+              "Podua",
+              "Passgaciawest",
+              "Baroparaup2"
+            ]
+          },
+          {
+            "subDistrictName": "Homna",
+            "subDistData": [
+              "Mathabanga",
+              "Gagutiea",
+              "Asadpur",
+              "Chanderchor",
+              "Vashania",
+              "Nilokhi",
+              "Garmora",
+              "Joypur",
+              "Dulalpurup1"
+            ]
+          },
+          {
+            "subDistrictName": "Laksam",
+            "subDistData": [
+              "Bakoi",
+              "Mudafargonj",
+              "Kandirpar",
+              "Gobindapur",
+              "Uttarda",
+              "Laksampurba",
+              "Azgora"
+            ]
+          },
+          {
+            "subDistrictName": "Muradnagar",
+            "subDistData": [
+              "Sreekil",
+              "Akubpur",
+              "Andicot",
+              "Purbadaireast",
+              "Purbadairwest",
+              "Bangaraeast",
+              "Bangarawest",
+              "Chapitala",
+              "Camalla",
+              "Jatrapur",
+              "Ramachandrapurnorth",
+              "Ramachandrapursouth",
+              "Muradnagarsadar",
+              "Nobipureast",
+              "Nobipurwest",
+              "Damgar",
+              "Jahapur",
+              "Salikandi",
+              "Darura",
+              "Paharpur",
+              "Babutipara",
+              "Tanki"
+            ]
+          },
+          {
+            "subDistrictName": "Nangalkot",
+            "subDistData": [
+              "Bangadda",
+              "Paria",
+              "Raykot",
+              "Mokara",
+              "Makrabpur",
+              "Heshakhal",
+              "Adra",
+              "Judda",
+              "Dhalua",
+              "Doulkha",
+              "Boxgonj",
+              "Satbaria",
+              "Battali"
+            ]
+          },
+          {
+            "subDistrictName": "Cumillasadar",
+            "subDistData": [
+              "Kalirbazer",
+              "Durgapurnorth",
+              "Durgapursouth",
+              "Amratoli",
+              "Panchthubi",
+              "Jagannatpur"
+            ]
+          },
+          {
+            "subDistrictName": "Meghna",
+            "subDistData": [
+              "Chandanpur",
+              "Chalibanga",
+              "Radanagar",
+              "Manikarchar",
+              "Barakanda",
+              "Govindapurup1",
+              "Luterchar",
+              "Vaorkhola"
+            ]
+          },
+          {
+            "subDistrictName": "Monohargonj",
+            "subDistData": [
+              "Baishgaon",
+              "Shoroshpur",
+              "Hasnabad",
+              "Jholamnorth",
+              "Jholamsouth",
+              "Moishatua",
+              "Lokkhanpur",
+              "Khela",
+              "Uttarhowla",
+              "Natherpetua",
+              "Bipulashar"
+            ]
+          },
+          {
+            "subDistrictName": "Sadarsouth",
+            "subDistData": [
+              "Chuwara",
+              "Baroparaup1",
+              "Jorkanoneast",
+              "Goliara",
+              "Jorkanonwest",
+              "Bagmaranorth",
+              "Bagmarasouth",
+              "Bhuloinnorth",
+              "Bhuloinsouth",
+              "Belgornorth",
+              "Belgorsouth",
+              "Perulnorth",
+              "Perulsouth",
+              "Bijoypur"
+            ]
+          },
+          {
+            "subDistrictName": "Titas",
+            "subDistData": [
+              "Satani",
+              "Jagatpur",
+              "Balorampur",
+              "Karikandi",
+              "Kalakandi",
+              "Vitikandi",
+              "Narayandia",
+              "Zearkandi",
+              "Majidpur"
+            ]
+          },
+          {
+            "subDistrictName": "Burichang",
+            "subDistData": [
+              "Moynamoti",
+              "Varella",
+              "Mokam",
+              "Burichangsadar",
+              "Bakshimul",
+              "Pirjatrapur",
+              "Sholonal",
+              "Rajapur"
+            ]
+          },
+          {
+            "subDistrictName": "Lalmai",
+            "subDistData": [
+              "Bagmaranorth",
+              "Bagmarasouth",
+              "Bhuloinnorth",
+              "Bhuloinsouth",
+              "Belgornorth",
+              "Belgorsouth",
+              "Perulnorth",
+              "Perulsouth"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Feni",
+        "distData": [
+          {
+            "subDistrictName": "Chhagalnaiya",
+            "subDistData": [
+              "Mohamaya",
+              "Pathannagar",
+              "Subhapur",
+              "Radhanagar",
+              "Gopal"
+            ]
+          },
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Sarishadi",
+              "Panchgachia",
+              "Dhormapur",
+              "Kazirbag",
+              "Kalidah",
+              "Baligaon",
+              "Dholia",
+              "Lemua",
+              "Chonua",
+              "Motobi",
+              "Fazilpur",
+              "Forhadnogor"
+            ]
+          },
+          {
+            "subDistrictName": "Sonagazi",
+            "subDistData": [
+              "Charmozlishpur",
+              "Bogadana",
+              "Motigonj",
+              "Mongolkandi",
+              "Chardorbesh",
+              "Chorchandia",
+              "Sonagazi",
+              "Amirabad",
+              "Nababpur"
+            ]
+          },
+          {
+            "subDistrictName": "Fulgazi",
+            "subDistData": [
+              "Fulgazi",
+              "Munshirhat",
+              "Dorbarpur",
+              "Anandopur",
+              "Amzadhat",
+              "Gmhat"
+            ]
+          },
+          {
+            "subDistrictName": "Parshuram",
+            "subDistData": [
+              "Mizanagar",
+              "Ctholia",
+              "Boxmahmmud"
+            ]
+          },
+          {
+            "subDistrictName": "Daganbhuiyan",
+            "subDistData": [
+              "Sindurpur",
+              "Rajapur",
+              "Purbachandrapur",
+              "Ramnagar",
+              "Yeakubpur",
+              "Daganbhuiyan",
+              "Matubhuiyan",
+              "Jayloskor"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Brahmanbaria",
+        "distData": [
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Basudeb",
+              "Machihata",
+              "Sultanpur",
+              "Ramrail",
+              "Sadekpur",
+              "Talsahar",
+              "Natais",
+              "Natain",
+              "Shuhilpur",
+              "Bodhal",
+              "Majlishpur"
+            ]
+          },
+          {
+            "subDistrictName": "Kasba",
+            "subDistData": [
+              "Mulagram",
+              "Mehari",
+              "Badair",
+              "Kharera",
+              "Benauty",
+              "Gopinathpur",
+              "Kasbaw",
+              "Kuti",
+              "Kayempur",
+              "Bayek"
+            ]
+          },
+          {
+            "subDistrictName": "Nasirnagar",
+            "subDistData": [
+              "Chatalpar",
+              "Bhalakut",
+              "Kunda",
+              "Goalnagar",
+              "Nasirnagar",
+              "Burishwar",
+              "Fandauk",
+              "Goniauk",
+              "Chapartala",
+              "Dharnondol",
+              "Haripur",
+              "Purbabhag",
+              "Gokarna"
+            ]
+          },
+          {
+            "subDistrictName": "Sarail",
+            "subDistData": [
+              "Auraol",
+              "Pakshimuul",
+              "Chunta",
+              "Kalikaccha",
+              "Panishor",
+              "Sarail",
+              "Noagoun",
+              "Shahajadapur",
+              "Shahbazpur"
+            ]
+          },
+          {
+            "subDistrictName": "Ashuganj",
+            "subDistData": [
+              "Ashuganj",
+              "Charchartala",
+              "Durgapur",
+              "Araishidha",
+              "Talshaharw",
+              "Sarifpur",
+              "Lalpur",
+              "Tarua"
+            ]
+          },
+          {
+            "subDistrictName": "Akhaura",
+            "subDistData": [
+              "Monionda",
+              "Dharkhar",
+              "Mogra",
+              "Akhauran",
+              "Akhauras"
+            ]
+          },
+          {
+            "subDistrictName": "Nabinagar",
+            "subDistData": [
+              "Barail",
+              "Birgaon",
+              "Krishnanagar",
+              "Nathghar",
+              "Biddayakut",
+              "Nabinagare",
+              "Nabinagarw",
+              "Bitghar",
+              "Shibpur",
+              "Sreerampur",
+              "Jinudpur",
+              "Laurfatehpur",
+              "Ibrahimpur",
+              "Satmura",
+              "Shamogram",
+              "Rasullabad",
+              "Barikandi",
+              "Salimganj",
+              "Ratanpur",
+              "Kaitalan",
+              "Kaitalas"
+            ]
+          },
+          {
+            "subDistrictName": "Bancharampur",
+            "subDistData": [
+              "Tazkhali",
+              "Pahariyakandi",
+              "Dariadulat",
+              "Sonarampur",
+              "Darikandi",
+              "Saifullyakandi",
+              "Bancharampur",
+              "Ayabpur",
+              "Fardabad",
+              "Rupushdi",
+              "Salimabad",
+              "Ujanchar",
+              "Manikpur"
+            ]
+          },
+          {
+            "subDistrictName": "Bijoynagar",
+            "subDistData": [
+              "Bhudanty",
+              "Chandura",
+              "Ichapura",
+              "Champaknagar",
+              "Harashpur",
+              "Pattan",
+              "Singerbil",
+              "Bishupor",
+              "Charislampur",
+              "Paharpur"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Rangamati",
+        "distData": [
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Jibtali",
+              "Sapchari",
+              "Kutukchari",
+              "Bandukbhanga",
+              "Balukhali",
+              "Mogban"
+            ]
+          },
+          {
+            "subDistrictName": "Kaptai",
+            "subDistData": [
+              "Raikhali",
+              "Kaptai",
+              "Wagga",
+              "Chandraghona",
+              "Chitmorom"
+            ]
+          },
+          {
+            "subDistrictName": "Kawkhali",
+            "subDistData": [
+              "Ghagra",
+              "Fatikchari",
+              "Betbunia",
+              "Kalampati"
+            ]
+          },
+          {
+            "subDistrictName": "Baghaichari",
+            "subDistData": [
+              "Sajek",
+              "Amtali",
+              "Bongoltali",
+              "Rupokari",
+              "Marisha",
+              "Khedarmara",
+              "Sharoyatali",
+              "Baghaichari"
+            ]
+          },
+          {
+            "subDistrictName": "Barkal",
+            "subDistData": [
+              "Subalong",
+              "Barkal",
+              "Bushanchara",
+              "Aimachara",
+              "Borohorina"
+            ]
+          },
+          {
+            "subDistrictName": "Langadu",
+            "subDistData": [
+              "Langad",
+              "Maeinimukh",
+              "Vasannadam",
+              "Bogachattar",
+              "Gulshakhali",
+              "Kalapakujja",
+              "Atarakchara"
+            ]
+          },
+          {
+            "subDistrictName": "Rajasthali",
+            "subDistData": [
+              "Ghilachari",
+              "Gaindya",
+              "Bangalhalia"
+            ]
+          },
+          {
+            "subDistrictName": "Belaichari",
+            "subDistData": [
+              "Kengrachari",
+              "Belaichari",
+              "Farua"
+            ]
+          },
+          {
+            "subDistrictName": "Juraichari",
+            "subDistData": [
+              "Juraichari",
+              "Banajogichara",
+              "Moidong",
+              "Dumdumya"
+            ]
+          },
+          {
+            "subDistrictName": "Naniarchar",
+            "subDistData": [
+              "Sabekkhong",
+              "Naniarchar",
+              "Burighat",
+              "Ghilachhari"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Noakhali",
+        "distData": [
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Charmatua",
+              "Dadpur",
+              "Noannoi",
+              "Kadirhanif",
+              "Binodpur",
+              "Dharmapur",
+              "Aujbalia",
+              "Kaladara",
+              "Ashwadia",
+              "Newajpur",
+              "Eastcharmatua",
+              "Andarchar",
+              "Noakhali"
+            ]
+          },
+          {
+            "subDistrictName": "Companiganj",
+            "subDistData": [
+              "Sirajpur",
+              "Charparboti",
+              "Charhazari",
+              "Charkakra",
+              "Charfakira",
+              "Musapur",
+              "Charelahi",
+              "Rampur"
+            ]
+          },
+          {
+            "subDistrictName": "Begumganj",
+            "subDistData": [
+              "Amanullapur",
+              "Gopalpur",
+              "Jirtali",
+              "Kutubpur",
+              "Alyearpur",
+              "Chayani",
+              "Rajganj",
+              "Eklashpur",
+              "Begumganj",
+              "Mirwarishpur",
+              "Narottampur",
+              "Durgapur",
+              "Rasulpur",
+              "Hajipur",
+              "Sharifpur",
+              "Kadirpur"
+            ]
+          },
+          {
+            "subDistrictName": "Hatia",
+            "subDistData": [
+              "Sukhchar",
+              "Nolchira",
+              "Charishwar",
+              "Charking",
+              "Tomoroddi",
+              "Sonadiya",
+              "Burirchar",
+              "Jahajmara",
+              "Nijhumdwi"
+            ]
+          },
+          {
+            "subDistrictName": "Subarnachar",
+            "subDistData": [
+              "Charjabbar",
+              "Charbata",
+              "Charclerk",
+              "Charwapda",
+              "Charjubilee",
+              "Charamanullah",
+              "Eastcharbata",
+              "Mohammadpur"
+            ]
+          },
+          {
+            "subDistrictName": "Kabirhat",
+            "subDistData": [
+              "Narottampurup1",
+              "Dhanshiri",
+              "Sundalpur",
+              "Ghoshbag",
+              "Chaprashirhat",
+              "Dhanshalik",
+              "Batoiya"
+            ]
+          },
+          {
+            "subDistrictName": "Senbug",
+            "subDistData": [
+              "Chhatarpaia",
+              "Kesharpar",
+              "Dumurua",
+              "Kadra",
+              "Arjuntala",
+              "Kabilpur",
+              "Mohammadpurup7",
+              "Nabipur",
+              "Bejbagh"
+            ]
+          },
+          {
+            "subDistrictName": "Chatkhil",
+            "subDistData": [
+              "Sahapur",
+              "Ramnarayanpur",
+              "Porokote",
+              "Badalkot",
+              "Panchgaon",
+              "Hatpukuriaghatlabag",
+              "Noakhala",
+              "Khilpara",
+              "Mohammadpuru5"
+            ]
+          },
+          {
+            "subDistrictName": "Sonaimuri",
+            "subDistData": [
+              "Joyag",
+              "Nodona",
+              "Chashirhat",
+              "Barogaon",
+              "Ambarnagor",
+              "Nateshwar",
+              "Bajra",
+              "Sonapur",
+              "Deoti",
+              "Amishapara"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Chandpur",
+        "distData": [
+          {
+            "subDistrictName": "Haimchar",
+            "subDistData": [
+              "Gazipur",
+              "Algidurgapurnorth",
+              "Algidurgapursouth",
+              "Nilkamal",
+              "Haimchar",
+              "Charbhairabi"
+            ]
+          },
+          {
+            "subDistrictName": "Kachua",
+            "subDistData": [
+              "Pathair",
+              "Bitara",
+              "Shohodebpureast",
+              "Shohodebpurwest",
+              "Kachuanorth",
+              "Kachuasouth",
+              "Gohatnorth",
+              "Kadla",
+              "Ashrafpur",
+              "Gohatsouth",
+              "Sachar",
+              "Koroia"
+            ]
+          },
+          {
+            "subDistrictName": "Shahrasti",
+            "subDistData": [
+              "Tamtasouth",
+              "Tamtanorth",
+              "Mehernorth",
+              "Mehersouth",
+              "Suchiparanorth",
+              "Suchiparasouth",
+              "Chitoshieast",
+              "Raysreesouth",
+              "Raysreenorth",
+              "Chitoshiwest"
+            ]
+          },
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Bishnapur",
+              "Ashikati",
+              "Shahmahmudpur",
+              "Kalyanpur",
+              "Rampur",
+              "Maishadi",
+              "Tarpurchandi",
+              "Baghadi",
+              "Laxmipurmodel",
+              "Hanarchar",
+              "Chandra",
+              "Rajrajeshwar",
+              "Ibrahimpur",
+              "Balia"
+            ]
+          },
+          {
+            "subDistrictName": "Matlabsouth",
+            "subDistData": [
+              "Nayergaonnorth",
+              "Nayergaonsouth",
+              "Khadergaon",
+              "Narayanpur",
+              "Upadisouth",
+              "Upadinorth"
+            ]
+          },
+          {
+            "subDistrictName": "Hajiganj",
+            "subDistData": [
+              "Rajargaonnorth",
+              "Bakila",
+              "Kalochonorth",
+              "Hajiganjsadar",
+              "Kalochosouth",
+              "Barkuleast",
+              "Barkulwest",
+              "Hatilaeast",
+              "Hatilawest",
+              "Gandharbapurnorth",
+              "Gandharbapursouth"
+            ]
+          },
+          {
+            "subDistrictName": "Matlabnorth",
+            "subDistData": [
+              "Satnal",
+              "Banganbari",
+              "Sadullapur",
+              "Durgapur",
+              "Kalakanda",
+              "Mohanpur",
+              "Eklaspur",
+              "Jahirabad",
+              "Eastfatehpur",
+              "Westfatehpur",
+              "Farajikandi",
+              "Islamabad",
+              "Sultanabad",
+              "Gazra"
+            ]
+          },
+          {
+            "subDistrictName": "Faridgonj",
+            "subDistData": [
+              "Balithubawest",
+              "Balithubaeast",
+              "Subidpureast",
+              "Subidpurwest",
+              "Guptiwest",
+              "Guptieast",
+              "Paikparanorth",
+              "Paikparasouth",
+              "Gobindapurnorth",
+              "Gobindapursouth",
+              "Chardukhiaeast",
+              "Chardukhiawest",
+              "Faridgonjsouth",
+              "Rupshasouth",
+              "Rupshanorth"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Lakshmipur",
+        "distData": [
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Northhamsadi",
+              "Southhamsadi",
+              "Dalalbazar",
+              "Charruhita",
+              "Parbotinagar",
+              "Bangakha",
+              "Dattapara",
+              "Basikpur",
+              "Chandrogonj",
+              "Nourthjoypur",
+              "Hazirpara",
+              "Charshahi",
+              "Digli",
+              "Laharkandi",
+              "Vobanigonj",
+              "Kusakhali",
+              "Sakchor",
+              "Tearigonj",
+              "Tumchor",
+              "Charramonimohon",
+              "Mandari"
+            ]
+          },
+          {
+            "subDistrictName": "Kamalnagar",
+            "subDistData": [
+              "Charkalkini",
+              "Shaheberhat",
+              "Charmartin",
+              "Charfolcon",
+              "Patarirhat",
+              "Hajirhat",
+              "Charkadira",
+              "Torabgonj",
+              "Charlorench"
+            ]
+          },
+          {
+            "subDistrictName": "Raipur",
+            "subDistData": [
+              "Northcharababil",
+              "Northcharbangshi",
+              "Charmohana",
+              "Sonapur",
+              "Charpata",
+              "Bamni",
+              "Southcharbangshi",
+              "Southcharababil",
+              "Raipur",
+              "Keora"
+            ]
+          },
+          {
+            "subDistrictName": "Ramgati",
+            "subDistData": [
+              "Charporagacha",
+              "Charbadam",
+              "Charabdullah",
+              "Alxendar",
+              "Charalgi",
+              "Charramiz",
+              "Borokheri",
+              "Chargazi"
+            ]
+          },
+          {
+            "subDistrictName": "Ramganj",
+            "subDistData": [
+              "Kanchanpur",
+              "Noagaon",
+              "Bhadur",
+              "Ichhapur",
+              "Chandipur",
+              "Lamchar",
+              "Darbeshpur",
+              "Karpara",
+              "Bholakot",
+              "Bhatra"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Chattogram",
+        "distData": [
+          {
+            "subDistrictName": "Rangunia",
+            "subDistData": [
+              "Rajanagar",
+              "Hosnabad",
+              "Swanirborrangunia",
+              "Mariumnagar",
+              "Parua",
+              "Pomra",
+              "Betagi",
+              "Sharafbhata",
+              "Shilok",
+              "Chandraghona",
+              "Kodala",
+              "Islampur",
+              "Southrajanagar",
+              "Lalanagar"
+            ]
+          },
+          {
+            "subDistrictName": "Sitakunda",
+            "subDistData": [
+              "Kumira",
+              "Banshbaria",
+              "Barabkunda",
+              "Bariadyala",
+              "Muradpur",
+              "Saidpur",
+              "Salimpur",
+              "Sonaichhari",
+              "Bhatiari"
+            ]
+          },
+          {
+            "subDistrictName": "Mirsharai",
+            "subDistData": [
+              "Korerhat",
+              "Hinguli",
+              "Jorarganj",
+              "Dhoom",
+              "Osmanpur",
+              "Ichakhali",
+              "Katachhara",
+              "Durgapur",
+              "Mirsharai",
+              "Mithanala",
+              "Maghadia",
+              "Khaiyachhara",
+              "Mayani",
+              "Haitkandi",
+              "Wahedpur",
+              "Saherkhali"
+            ]
+          },
+          {
+            "subDistrictName": "Patiya",
+            "subDistData": [
+              "Asia",
+              "Kachuai",
+              "Kasiais",
+              "Kusumpura",
+              "Kelishahar",
+              "Kolagaon",
+              "Kharana",
+              "Charpatharghata",
+              "Charlakshya",
+              "Chanhara",
+              "Janglukhain",
+              "Jiri",
+              "Juldha",
+              "Dakhinbhurshi",
+              "Dhalghat",
+              "Barauthan",
+              "Baralia",
+              "Bhatikhain",
+              "Sikalbaha",
+              "Sobhandandi",
+              "Habilasdwi",
+              "Haidgaon"
+            ]
+          },
+          {
+            "subDistrictName": "Sandwip",
+            "subDistData": [
+              "Rahmatpur",
+              "Harispur",
+              "Kalapania",
+              "Amanullah",
+              "Santoshpur",
+              "Gachhua",
+              "Bauria",
+              "Haramia",
+              "Magdhara",
+              "Maitbhanga",
+              "Sarikait",
+              "Musapur",
+              "Azimpur",
+              "Urirchar"
+            ]
+          },
+          {
+            "subDistrictName": "Banshkhali",
+            "subDistData": [
+              "Pukuria",
+              "Sadhanpur",
+              "Khankhanabad",
+              "Baharchhara",
+              "Kalipur",
+              "Bailchhari",
+              "Katharia",
+              "Saral",
+              "Silk",
+              "Chambal",
+              "Gandamara",
+              "Sekherkhil",
+              "Puichhari",
+              "Chhanua"
+            ]
+          },
+          {
+            "subDistrictName": "Boalkhali",
+            "subDistData": [
+              "Kandhurkhil",
+              "Pashchimgamdandi",
+              "Purbagomdandi",
+              "Sakpura",
+              "Saroatali",
+              "Popadia",
+              "Charandwi",
+              "Sreepurkharandwi",
+              "Amuchia",
+              "Ahlakaraldenga"
+            ]
+          },
+          {
+            "subDistrictName": "Anwara",
+            "subDistData": [
+              "Boirag",
+              "Barasat",
+              "Raipur",
+              "Battali",
+              "Barumchara",
+              "Baroakhan",
+              "Anwara",
+              "Chatari",
+              "Paraikora",
+              "Haildhar",
+              "Juidandi"
+            ]
+          },
+          {
+            "subDistrictName": "Chandanaish",
+            "subDistData": [
+              "Kanchanabad",
+              "Joara",
+              "Barkal",
+              "Barama",
+              "Bailtali",
+              "Satbaria",
+              "Hashimpur",
+              "Dohazari",
+              "Dhopachhari"
+            ]
+          },
+          {
+            "subDistrictName": "Satkania",
+            "subDistData": [
+              "Charati",
+              "Khagaria",
+              "Nalua",
+              "Kanchana",
+              "Amilaisi",
+              "Eochiai",
+              "Madarsa",
+              "Dhemsa",
+              "Paschimdhemsa",
+              "Keochia",
+              "Kaliais",
+              "Bazalia",
+              "Puranagar",
+              "Sadaha",
+              "Satkania",
+              "Sonakania"
+            ]
+          },
+          {
+            "subDistrictName": "Lohagara",
+            "subDistData": [
+              "Padua",
+              "Barahatia",
+              "Amirabad",
+              "Charamba",
+              "Kalauzan",
+              "Lohagara",
+              "Putibila",
+              "Chunati",
+              "Adhunagar"
+            ]
+          },
+          {
+            "subDistrictName": "Hathazari",
+            "subDistData": [
+              "Farhadabad",
+              "Dhalai",
+              "Mirjapur",
+              "Nangolmora",
+              "Gomanmordan",
+              "Chipatali",
+              "Mekhal",
+              "Garduara",
+              "Fathepur",
+              "Chikondandi",
+              "Uttarmadrasha",
+              "Dakkinmadrasha",
+              "Sikarpur",
+              "Budirchar",
+              "Hathazari"
+            ]
+          },
+          {
+            "subDistrictName": "Fatikchhari",
+            "subDistData": [
+              "Dharmapur",
+              "Baganbazar",
+              "Dantmara",
+              "Narayanhat",
+              "Bhujpur",
+              "Harualchari",
+              "Paindong",
+              "Kanchannagor",
+              "Sunderpur",
+              "Suabil",
+              "Abdullapur",
+              "Samitirhat",
+              "Jafathagar",
+              "Bokhtapur",
+              "Roshangiri",
+              "Nanupur",
+              "Lelang",
+              "Daulatpur"
+            ]
+          },
+          {
+            "subDistrictName": "Raozan",
+            "subDistData": [
+              "Raozan",
+              "Bagoan",
+              "Binajuri",
+              "Chikdair",
+              "Dabua",
+              "Purbagujra",
+              "Paschimgujra",
+              "Gohira",
+              "Holdia",
+              "Kodolpur",
+              "Noapara",
+              "Pahartali",
+              "Urkirchar",
+              "Nowajushpur"
+            ]
+          },
+          {
+            "subDistrictName": "Karnafuli",
+            "subDistData": [
+              "Charpatharghata",
+              "Charlakshya",
+              "Juldha",
+              "Barauthan",
+              "Sikalbaha"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Coxsbazar",
+        "distData": [
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Islamabad",
+              "Islampur",
+              "Pokkhali",
+              "Eidgaon",
+              "Jalalabad",
+              "Chowfaldandi",
+              "Varuakhali",
+              "Pmkhali",
+              "Khurushkhul",
+              "Jhilongjha"
+            ]
+          },
+          {
+            "subDistrictName": "Chakaria",
+            "subDistData": [
+              "Kakhara",
+              "Kaiarbil",
+              "Konakhali",
+              "Khuntakhali",
+              "Chiringa",
+              "Demusia",
+              "Dulahazara",
+              "Paschimbarabheola",
+              "Badarkhali",
+              "Bamobilchari",
+              "Baraitali",
+              "Bheolamanikchar",
+              "Saharbil",
+              "Surajpurmanikpur",
+              "Harbang",
+              "Fashiakhali"
+            ]
+          },
+          {
+            "subDistrictName": "Kutubdia",
+            "subDistData": [
+              "Aliakbardeil",
+              "Uttardhurung",
+              "Kaiyarbil",
+              "Dakshidhurung",
+              "Baragho",
+              "Lemsikhali"
+            ]
+          },
+          {
+            "subDistrictName": "Ukhiya",
+            "subDistData": [
+              "Rajapalong",
+              "Jaliapalong",
+              "Holdiapalong",
+              "Ratnapalong",
+              "Palongkhali"
+            ]
+          },
+          {
+            "subDistrictName": "Moheshkhali",
+            "subDistData": [
+              "Boramoheshkhali",
+              "Chotamoheshkhali",
+              "Shaplapur",
+              "Kutubjum",
+              "Hoanak",
+              "Kalarmarchhara",
+              "Matarbari",
+              "Dhalghata"
+            ]
+          },
+          {
+            "subDistrictName": "Pekua",
+            "subDistData": [
+              "Ujantia",
+              "Taitong",
+              "Pekua",
+              "Barabakia",
+              "Magnama",
+              "Rajakhali",
+              "Shilkhali"
+            ]
+          },
+          {
+            "subDistrictName": "Ramu",
+            "subDistData": [
+              "Fotekharkul",
+              "Rajarkul",
+              "Rashidnagar",
+              "Khuniapalong",
+              "Eidghar",
+              "Chakmarkul",
+              "Kacchapia",
+              "Kauwarkho",
+              "Dakkhinmithachhari",
+              "Jouarianala",
+              "Garjoniya"
+            ]
+          },
+          {
+            "subDistrictName": "Teknaf",
+            "subDistData": [
+              "Subrang",
+              "Baharchara",
+              "Hnila",
+              "Whykong",
+              "Saintmartin",
+              "Teknafsadar"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Khagrachhari",
+        "distData": [
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Sadar",
+              "Golabari",
+              "Parachara",
+              "Kamalchari"
+            ]
+          },
+          {
+            "subDistrictName": "Dighinala",
+            "subDistData": [
+              "Merung",
+              "Boalkhali",
+              "Kabakhali",
+              "Dighinala",
+              "Babuchara"
+            ]
+          },
+          {
+            "subDistrictName": "Panchari",
+            "subDistData": [
+              "Logang",
+              "Changi",
+              "Panchari",
+              "Latiban"
+            ]
+          },
+          {
+            "subDistrictName": "Laxmichhari",
+            "subDistData": [
+              "Dullyatali",
+              "Barmachari",
+              "Laxmichhari"
+            ]
+          },
+          {
+            "subDistrictName": "Mohalchari",
+            "subDistData": [
+              "Bhaibonchara",
+              "Mahalchari",
+              "Mobachari",
+              "Kayanghat",
+              "Maischari"
+            ]
+          },
+          {
+            "subDistrictName": "Manikchari",
+            "subDistData": [
+              "Manikchari",
+              "Batnatali",
+              "Jogyachola",
+              "Tintahari"
+            ]
+          },
+          {
+            "subDistrictName": "Ramgarh",
+            "subDistData": [
+              "Ramgarh",
+              "Patachara",
+              "Hafchari"
+            ]
+          },
+          {
+            "subDistrictName": "Matiranga",
+            "subDistData": [
+              "Taindong",
+              "Tabalchari",
+              "Barnal",
+              "Gomti",
+              "Balchari",
+              "Matiranga",
+              "Guimara",
+              "Amtali"
+            ]
+          },
+          {
+            "subDistrictName": "Guimara",
+            "subDistData": []
+          }
+        ]
+      },
+      {
+        "districtName": "Bandarban",
+        "distData": [
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Rajbila",
+              "Tongkaboty",
+              "Suwalok",
+              "Bandarbansadar",
+              "Kuhalong"
+            ]
+          },
+          {
+            "subDistrictName": "Alikadam",
+            "subDistData": [
+              "Alikadamsadar",
+              "Chwekhyong"
+            ]
+          },
+          {
+            "subDistrictName": "Naikhongchhari",
+            "subDistData": [
+              "Naikhyongcharisadar",
+              "Gumdhum",
+              "Baishari",
+              "Sonaychari",
+              "Duwchari"
+            ]
+          },
+          {
+            "subDistrictName": "Rowangchhari",
+            "subDistData": [
+              "Rowangcharisadar",
+              "Taracha",
+              "Alekyong",
+              "Nawapotong"
+            ]
+          },
+          {
+            "subDistrictName": "Lama",
+            "subDistData": [
+              "Gajalia",
+              "Lamasadar",
+              "Fasiakhali",
+              "Fythong",
+              "Rupushipara",
+              "Sarai",
+              "Aziznagar"
+            ]
+          },
+          {
+            "subDistrictName": "Ruma",
+            "subDistData": [
+              "Paind",
+              "Rumasadar",
+              "Ramakreprangsa",
+              "Galanggya"
+            ]
+          },
+          {
+            "subDistrictName": "Thanchi",
+            "subDistData": [
+              "Remakre",
+              "Tind",
+              "Thanchisadar",
+              "Balipara"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "divisionName": "Rajshahi",
+    "divData": [
+      {
+        "districtName": "Sirajganj",
+        "distData": [
+          {
+            "subDistrictName": "Belkuchi",
+            "subDistData": [
+              "Rajapur",
+              "Baradhul",
+              "Belkuchisadar",
+              "Dhukuriabera",
+              "Doulatpur",
+              "Bhangabari"
+            ]
+          },
+          {
+            "subDistrictName": "Chauhali",
+            "subDistData": [
+              "Baghutia",
+              "Gharjan",
+              "Khaskaulia",
+              "Khaspukuria",
+              "Omarpur",
+              "Sadiachandpur",
+              "Sthal"
+            ]
+          },
+          {
+            "subDistrictName": "Kamarkhand",
+            "subDistData": [
+              "Bhadraghat",
+              "Jamtail",
+              "Jhawail",
+              "Roydaulatpur"
+            ]
+          },
+          {
+            "subDistrictName": "Kazipur",
+            "subDistData": [
+              "Chalitadangha",
+              "Chargirish",
+              "Gandail",
+              "Kazipursadar",
+              "Khasrajbari",
+              "Maijbari",
+              "Monsurnagar",
+              "Natuarpara",
+              "Nishchintapur",
+              "Sonamukhi",
+              "Subhagacha",
+              "Tekani"
+            ]
+          },
+          {
+            "subDistrictName": "Raigonj",
+            "subDistData": [
+              "Brommogacha",
+              "Chandaikona",
+              "Dhamainagar",
+              "Dhangora",
+              "Dhubil",
+              "Ghurka",
+              "Nalka",
+              "Pangashi",
+              "Sonakhara"
+            ]
+          },
+          {
+            "subDistrictName": "Shahjadpur",
+            "subDistData": [
+              "Beltail",
+              "Jalalpur",
+              "Kayempure",
+              "Garadah",
+              "Potazia",
+              "Rupbati",
+              "Gala",
+              "Porzona",
+              "Habibullahnagar",
+              "Khukni",
+              "Koizuri",
+              "Sonatoni",
+              "Narina"
+            ]
+          },
+          {
+            "subDistrictName": "Sirajganjsadar",
+            "subDistData": [
+              "Bagbati",
+              "Ratankandi",
+              "Bohuli",
+              "Sheyalkol",
+              "Khokshabari",
+              "Songacha",
+              "Mesra",
+              "Kowakhola",
+              "Kaliahoripur",
+              "Soydabad"
+            ]
+          },
+          {
+            "subDistrictName": "Tarash",
+            "subDistData": [
+              "Baruhas",
+              "Talam",
+              "Soguna",
+              "Magurabinod",
+              "Naogaon",
+              "Tarashsadar",
+              "Madhainagar",
+              "Deshigram"
+            ]
+          },
+          {
+            "subDistrictName": "Ullapara",
+            "subDistData": [
+              "Ullaparasadar",
+              "Ramkrisnopur",
+              "Bangala",
+              "Udhunia",
+              "Boropangashi",
+              "Durganagar",
+              "Purnimagati",
+              "Salanga",
+              "Hatikumrul",
+              "Borohor",
+              "Ponchocroshi",
+              "Salo",
+              "Mohonpur"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Pabna",
+        "distData": [
+          {
+            "subDistrictName": "Sujanagar",
+            "subDistData": [
+              "Vaina",
+              "Tantibonda",
+              "Manikhat",
+              "Dulai",
+              "Ahammadpur",
+              "Raninagar",
+              "Satbaria",
+              "Hatkhali",
+              "Nazirganj",
+              "Sagorkandi"
+            ]
+          },
+          {
+            "subDistrictName": "Ishurdi",
+            "subDistData": [
+              "Sara",
+              "Pakshi",
+              "Muladuli",
+              "Dashuria",
+              "Silimpur",
+              "Sahapur",
+              "Luxmikunda"
+            ]
+          },
+          {
+            "subDistrictName": "Bhangura",
+            "subDistData": [
+              "Bhangura",
+              "Khanmarich",
+              "Ashtamanisha",
+              "Dilpasar",
+              "Parbhangura",
+              "Mondotosh"
+            ]
+          },
+          {
+            "subDistrictName": "Pabnasadar",
+            "subDistData": [
+              "Maligachha",
+              "Malanchi",
+              "Gayeshpur",
+              "Ataikula",
+              "Chartarapur",
+              "Sadullahpur",
+              "Bharara",
+              "Dogachi",
+              "Hemayetpur",
+              "Dapunia"
+            ]
+          },
+          {
+            "subDistrictName": "Bera",
+            "subDistData": [
+              "Haturianakalia",
+              "Notunvarenga",
+              "Koitola",
+              "Chakla",
+              "Jatsakhini",
+              "Puranvarenga",
+              "Ruppur",
+              "Masumdia",
+              "Dhalarchar"
+            ]
+          },
+          {
+            "subDistrictName": "Atghoria",
+            "subDistData": [
+              "Majhpara",
+              "Chandba",
+              "Debottar",
+              "Ekdanta",
+              "Laxshmipur"
+            ]
+          },
+          {
+            "subDistrictName": "Chatmohar",
+            "subDistData": [
+              "Handial",
+              "Chhaikola",
+              "Nimaichara",
+              "Gunaigachha",
+              "Parshadanga",
+              "Failjana",
+              "Mulgram",
+              "Haripur",
+              "Mothurapur",
+              "Bilchalan",
+              "Danthiabamangram"
+            ]
+          },
+          {
+            "subDistrictName": "Santhia",
+            "subDistData": [
+              "Nagdemra",
+              "Dhulauri",
+              "Bhulbaria",
+              "Dhopadaha",
+              "Karamja",
+              "Kashinathpur",
+              "Gaurigram",
+              "Nandanpur",
+              "Khetupara",
+              "Rataiqula"
+            ]
+          },
+          {
+            "subDistrictName": "Faridpur",
+            "subDistData": [
+              "Brilahiribari",
+              "Pungali",
+              "Faridpur",
+              "Hadal",
+              "Banwarinagar",
+              "Demra"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Bogura",
+        "distData": [
+          {
+            "subDistrictName": "Kahaloo",
+            "subDistData": [
+              "Birkedar",
+              "Kalai",
+              "Paikar",
+              "Narhatta",
+              "Murail",
+              "Kahaloo",
+              "Durgapur",
+              "Jamgaon",
+              "Malancha"
+            ]
+          },
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Fapore",
+              "Shabgram",
+              "Nishindara",
+              "Erulia",
+              "Rajapur",
+              "Shakharia",
+              "Sekherkola",
+              "Gokul",
+              "Noongola",
+              "Lahiripara",
+              "Namuja"
+            ]
+          },
+          {
+            "subDistrictName": "Shariakandi",
+            "subDistData": [
+              "Sariakandisadar",
+              "Narchi",
+              "Bohail",
+              "Chaluabari",
+              "Chandanbaisha",
+              "Hatfulbari",
+              "Hatsherpur",
+              "Karnibari",
+              "Kazla",
+              "Kutubpur",
+              "Kamalpur",
+              "Bhelabari"
+            ]
+          },
+          {
+            "subDistrictName": "Shajahanpur",
+            "subDistData": [
+              "Asekpur",
+              "Madla",
+              "Majhira",
+              "Aria",
+              "Kharna",
+              "Khottapara",
+              "Chopinagar",
+              "Amrul",
+              "Gohail"
+            ]
+          },
+          {
+            "subDistrictName": "Dupchanchia",
+            "subDistData": [
+              "Zianagar",
+              "Chamrul",
+              "Dupchanchia",
+              "Gunahar",
+              "Gobindapur",
+              "Talora"
+            ]
+          },
+          {
+            "subDistrictName": "Adamdighi",
+            "subDistData": [
+              "Chhatiangram",
+              "Nasaratpur",
+              "Adamdighi",
+              "Kundagram",
+              "Chapapur",
+              "Shantahar"
+            ]
+          },
+          {
+            "subDistrictName": "Nondigram",
+            "subDistData": [
+              "Burail",
+              "Nandigram",
+              "Bhatra",
+              "Thaltamajhgram",
+              "Bhatgram"
+            ]
+          },
+          {
+            "subDistrictName": "Sonatala",
+            "subDistData": [
+              "Sonatala",
+              "Balua",
+              "Zorgacha",
+              "Digdair",
+              "Madhupur",
+              "Pakulla",
+              "Tekanichukinagar"
+            ]
+          },
+          {
+            "subDistrictName": "Dhunot",
+            "subDistData": [
+              "Nimgachi",
+              "Kalerpara",
+              "Chikashi",
+              "Gossainbari",
+              "Bhandarbari",
+              "Gopalnagar",
+              "Mothurapur",
+              "Chowkibari",
+              "Elangi",
+              "Dhunatsadar"
+            ]
+          },
+          {
+            "subDistrictName": "Gabtali",
+            "subDistData": [
+              "Baliadighi",
+              "Dakshinpara",
+              "Durgahata",
+              "Kagail",
+              "Sonarai",
+              "Rameshwarpur",
+              "Naruamala",
+              "Nepaltali",
+              "Gabtali",
+              "Mahishaban",
+              "Nasipur"
+            ]
+          },
+          {
+            "subDistrictName": "Sherpur",
+            "subDistData": [
+              "Mirzapur",
+              "Khamarkandi",
+              "Garidaha",
+              "Kusumbi",
+              "Bishalpur",
+              "Shimabari",
+              "Shahbondegi",
+              "Sughat",
+              "Khanpur",
+              "Bhabanipur"
+            ]
+          },
+          {
+            "subDistrictName": "Shibganj",
+            "subDistData": [
+              "Moidanhatta",
+              "Kichok",
+              "Atmul",
+              "Pirob",
+              "Majhihatta",
+              "Buriganj",
+              "Bihar",
+              "Shibganj",
+              "Deuly",
+              "Sayedpur",
+              "Mokamtala",
+              "Raynagar"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Rajshahi",
+        "distData": [
+          {
+            "subDistrictName": "Paba",
+            "subDistData": [
+              "Darsanpara",
+              "Hujuripara",
+              "Damkura",
+              "Horipur",
+              "Horogram",
+              "Harian",
+              "Borgachi",
+              "Parila"
+            ]
+          },
+          {
+            "subDistrictName": "Durgapur",
+            "subDistData": [
+              "Naopara",
+              "Kismatgankoir",
+              "Pananagar",
+              "Deluabari",
+              "Jhaluka",
+              "Maria",
+              "Joynogor"
+            ]
+          },
+          {
+            "subDistrictName": "Mohonpur",
+            "subDistData": [
+              "Dhuroil",
+              "Ghasigram",
+              "Raighati",
+              "Mougachi",
+              "Baksimoil",
+              "Jahanabad"
+            ]
+          },
+          {
+            "subDistrictName": "Charghat",
+            "subDistData": [
+              "Yousufpur",
+              "Solua",
+              "Sardah",
+              "Nimpara",
+              "Charghat",
+              "Vialuxmipur"
+            ]
+          },
+          {
+            "subDistrictName": "Puthia",
+            "subDistData": [
+              "Puthia",
+              "Belpukuria",
+              "Baneswar",
+              "Valukgachi",
+              "Shilmaria",
+              "Jewpara"
+            ]
+          },
+          {
+            "subDistrictName": "Bagha",
+            "subDistData": [
+              "Bajubagha",
+              "Gorgori",
+              "Pakuria",
+              "Monigram",
+              "Bausa",
+              "Arani"
+            ]
+          },
+          {
+            "subDistrictName": "Godagari",
+            "subDistData": [
+              "Godagari",
+              "Mohonpur",
+              "Pakri",
+              "Risikul",
+              "Gogram",
+              "Matikata",
+              "Dewpara",
+              "Basudebpur",
+              "Asariadaha"
+            ]
+          },
+          {
+            "subDistrictName": "Tanore",
+            "subDistData": [
+              "Kalma",
+              "Badhair",
+              "Panchandar",
+              "Saranjai",
+              "Talondo",
+              "Kamargaon",
+              "Chanduria"
+            ]
+          },
+          {
+            "subDistrictName": "Bagmara",
+            "subDistData": [
+              "Gobindopara",
+              "Nordas",
+              "Dippur",
+              "Borobihanoli",
+              "Auchpara",
+              "Sreepur",
+              "Basupara",
+              "Kacharikoalipara",
+              "Suvodanga",
+              "Mariaup10",
+              "Ganipur",
+              "Zhikara",
+              "Gualkandi",
+              "Hamirkutsa",
+              "Jogipara",
+              "Sonadanga"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Natore",
+        "distData": [
+          {
+            "subDistrictName": "Natoresadar",
+            "subDistData": [
+              "Brahmapur",
+              "Madhnagar",
+              "Khajura",
+              "Piprul",
+              "Biprobelghoria",
+              "Chhatni",
+              "Tebaria",
+              "Dighapatia",
+              "Luxmipurkholabaria",
+              "Barahorispur",
+              "Kaphuria",
+              "Halsa"
+            ]
+          },
+          {
+            "subDistrictName": "Singra",
+            "subDistData": [
+              "Sukash",
+              "Dahia",
+              "Italy",
+              "Kalam",
+              "Chamari",
+              "Hatiandaha",
+              "Lalore",
+              "Sherkole",
+              "Tajpur",
+              "Chaugram",
+              "Chhatardighi",
+              "Ramanandakhajura"
+            ]
+          },
+          {
+            "subDistrictName": "Baraigram",
+            "subDistData": [
+              "Joari",
+              "Baraigram",
+              "Zonail",
+              "Nagor",
+              "Majgoan",
+              "Gopalpur",
+              "Chandai"
+            ]
+          },
+          {
+            "subDistrictName": "Bagatipara",
+            "subDistData": [
+              "Panka",
+              "Jamnagor",
+              "Bagatipara",
+              "Dayarampur",
+              "Faguardiar"
+            ]
+          },
+          {
+            "subDistrictName": "Lalpur",
+            "subDistData": [
+              "Lalpur",
+              "Iswardi",
+              "Chongdhupoil",
+              "Arbab",
+              "Bilmaria",
+              "Duaria",
+              "Oalia",
+              "Durduria",
+              "Arjunpur",
+              "Kadimchilan"
+            ]
+          },
+          {
+            "subDistrictName": "Gurudaspur",
+            "subDistData": [
+              "Nazirpur",
+              "Biaghat",
+              "Khubjipur",
+              "Dharabarisha",
+              "Moshindha",
+              "Chapila"
+            ]
+          },
+          {
+            "subDistrictName": "Naldanga",
+            "subDistData": []
+          }
+        ]
+      },
+      {
+        "districtName": "Joypurhat",
+        "distData": [
+          {
+            "subDistrictName": "Akkelpur",
+            "subDistData": [
+              "Rukindipur",
+              "Sonamukhi",
+              "Tilakpur",
+              "Raikali",
+              "Gopinathpur"
+            ]
+          },
+          {
+            "subDistrictName": "Kalai",
+            "subDistData": [
+              "Matrai",
+              "Ahammedabad",
+              "Punot",
+              "Zindarpur",
+              "Udaipur"
+            ]
+          },
+          {
+            "subDistrictName": "Khetlal",
+            "subDistData": [
+              "Alampur",
+              "Borail",
+              "Tulshiganga",
+              "Mamudpur",
+              "Boratara"
+            ]
+          },
+          {
+            "subDistrictName": "Panchbibi",
+            "subDistData": [
+              "Bagjana",
+              "Dharanji",
+              "Aymarasulpur",
+              "Balighata",
+              "Atapur",
+              "Mohammadpur",
+              "Aolai",
+              "Kusumba"
+            ]
+          },
+          {
+            "subDistrictName": "Joypurhatsadar",
+            "subDistData": [
+              "Amdai",
+              "Bamb",
+              "Dogachi",
+              "Puranapail",
+              "Jamalpur",
+              "Chakborkat",
+              "Mohammadabad",
+              "Dhalahar",
+              "Bhadsha"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Chapainawabganj",
+        "distData": [
+          {
+            "subDistrictName": "Chapainawabganjsadar",
+            "subDistData": [
+              "Alatuli",
+              "Baroghoria",
+              "Moharajpur",
+              "Ranihati",
+              "Baliadanga",
+              "Gobratola",
+              "Jhilim",
+              "Charaunupnagar",
+              "Debinagar",
+              "Shahjahanpur",
+              "Islampur",
+              "Charbagdanga",
+              "Narayanpur",
+              "Sundarpur"
+            ]
+          },
+          {
+            "subDistrictName": "Gomostapur",
+            "subDistData": [
+              "Radhanagar",
+              "Rahanpur",
+              "Boalia",
+              "Bangabari",
+              "Parbotipur",
+              "Chowdala",
+              "Gomostapur",
+              "Alinagar"
+            ]
+          },
+          {
+            "subDistrictName": "Nachol",
+            "subDistData": [
+              "Fhotepur",
+              "Kosba",
+              "Nezampur",
+              "Nachol"
+            ]
+          },
+          {
+            "subDistrictName": "Bholahat",
+            "subDistData": [
+              "Bholahat",
+              "Jambaria",
+              "Gohalbari",
+              "Daldoli"
+            ]
+          },
+          {
+            "subDistrictName": "Shibganj",
+            "subDistData": [
+              "Binodpur",
+              "Chakkirti",
+              "Daipukuria",
+              "Dhainagar",
+              "Durlovpur",
+              "Ghorapakhia",
+              "Mobarakpur",
+              "Monakasha",
+              "Noyalavanga",
+              "Panka",
+              "Chhatrajitpur",
+              "Shahabajpur",
+              "Shyampur",
+              "Kansat",
+              "Ujirpur"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Naogaon",
+        "distData": [
+          {
+            "subDistrictName": "Mohadevpur",
+            "subDistData": [
+              "1nomohadevpur",
+              "2nohatur",
+              "3nokhajur",
+              "4nochandas",
+              "6noenayetpur",
+              "7nosofapur",
+              "8nouttargram",
+              "9nocheragpur",
+              "10novimpur",
+              "Roygon"
+            ]
+          },
+          {
+            "subDistrictName": "Badalgachi",
+            "subDistData": [
+              "1nobadalgachi",
+              "2nomothurapur",
+              "3nopaharpur",
+              "4nomithapur",
+              "5nokola",
+              "6nobilashbari",
+              "7noadhaipur",
+              "8nobalubhara"
+            ]
+          },
+          {
+            "subDistrictName": "Patnitala",
+            "subDistData": [
+              "1nopatnitala",
+              "2nonirmail",
+              "3nodibar",
+              "4noakbarpur",
+              "5nomatindar",
+              "6nokrishnapur",
+              "7nopatichrara",
+              "8nonazipur",
+              "9noghasnagar",
+              "10noamair",
+              "11noahihara"
+            ]
+          },
+          {
+            "subDistrictName": "Dhamoirhat",
+            "subDistData": [
+              "1nodhamoirhat",
+              "3noalampur",
+              "4noumar",
+              "5noaranagar",
+              "6nojahanpur",
+              "7noisabpur",
+              "8nokhelna",
+              "2noagradigun"
+            ]
+          },
+          {
+            "subDistrictName": "Niamatpur",
+            "subDistData": [
+              "1nohajinagar",
+              "2nochandannagar",
+              "3nobhabicha",
+              "4noniamatpur",
+              "5norasulpur",
+              "6noparoil",
+              "7nosremantapur",
+              "8nobahadurpur"
+            ]
+          },
+          {
+            "subDistrictName": "Manda",
+            "subDistData": [
+              "1novarsho",
+              "2novalain",
+              "3noparanpur",
+              "4nomanda",
+              "5nogoneshpur",
+              "6nomoinom",
+              "7noproshadpur",
+              "8nokosomba",
+              "9notetulia",
+              "10nonurullabad",
+              "11nokalikapur",
+              "12nokashopara",
+              "13nokoshob",
+              "14nobisnopur"
+            ]
+          },
+          {
+            "subDistrictName": "Atrai",
+            "subDistData": [
+              "1noshahagola",
+              "2nobhonpara",
+              "3noahsanganj",
+              "4nopanchupur",
+              "5nobisha",
+              "6nomaniary",
+              "7nokalikapur",
+              "8nohatkalupara"
+            ]
+          },
+          {
+            "subDistrictName": "Raninagar",
+            "subDistData": [
+              "1nokhatteshawr",
+              "2nokashimpur",
+              "3nogona",
+              "4noparoil",
+              "5noborgoca",
+              "6nokaligram",
+              "7noekdala",
+              "8nomirat"
+            ]
+          },
+          {
+            "subDistrictName": "Naogaonsadar",
+            "subDistData": [
+              "1nobarshail",
+              "2nokritipur",
+              "3nobaktiarpur",
+              "4notilakpur",
+              "5nohapaniya",
+              "6nodubalhati",
+              "7noboalia",
+              "8nohashaigari",
+              "9nochandipur",
+              "10nobolihar",
+              "11noshekerpur",
+              "12noshailgachhi"
+            ]
+          },
+          {
+            "subDistrictName": "Porsha",
+            "subDistData": [
+              "Nitpur",
+              "2notetulia",
+              "3nochhaor",
+              "4noganguria",
+              "5noghatnagar",
+              "6nomoshidpur"
+            ]
+          },
+          {
+            "subDistrictName": "Sapahar",
+            "subDistData": [
+              "1nosapahar",
+              "3notilna",
+              "4noaihai",
+              "6noshironti",
+              "Goala",
+              "Patari"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "divisionName": "Khulna",
+    "divData": [
+      {
+        "districtName": "Jashore",
+        "distData": [
+          {
+            "subDistrictName": "Manirampur",
+            "subDistData": [
+              "Nehalpur",
+              "Hariharnagar",
+              "Haridaskati",
+              "Shyamkur",
+              "Rohita",
+              "Maswimnagar",
+              "Manoharpur",
+              "Manirampur",
+              "Bhojgati",
+              "Durbadanga",
+              "Dhakuria",
+              "Jhanpa",
+              "Chaluahati",
+              "Khedapara",
+              "Khanpur",
+              "Kultia",
+              "Kashimnagar"
+            ]
+          },
+          {
+            "subDistrictName": "Abhaynagar",
+            "subDistData": [
+              "Baghutia",
+              "Chalishia",
+              "Sundoli",
+              "Siddhipasha",
+              "Sreedharpur",
+              "Subharara",
+              "Prambag",
+              "Payra"
+            ]
+          },
+          {
+            "subDistrictName": "Bagherpara",
+            "subDistData": [
+              "Jaharpur",
+              "Jamdia",
+              "Darajhat",
+              "Dhalgram",
+              "Narikelbaria",
+              "Bandabilla",
+              "Basuari",
+              "Roypur",
+              "Dohakula"
+            ]
+          },
+          {
+            "subDistrictName": "Chougachha",
+            "subDistData": [
+              "Chougachhaup5",
+              "Jagadishpurup6",
+              "Dhulianiup4",
+              "Narayanpurup10",
+              "Patibilaup7",
+              "Pashapoleup2",
+              "Fulsaraup1",
+              "Singhajhuliup3",
+              "Sukpukhuriaup11",
+              "Swarupdahaup9",
+              "Hakimpurup8"
+            ]
+          },
+          {
+            "subDistrictName": "Jhikargacha",
+            "subDistData": [
+              "Ganganandapur",
+              "Gadkhali",
+              "Jhikargachha",
+              "Nabharan",
+              "Nibaskhola",
+              "Panisara",
+              "Bankra",
+              "Shankarpurup10",
+              "Shimuliaup3",
+              "Hajirbaghup9",
+              "Magura"
+            ]
+          },
+          {
+            "subDistrictName": "Keshabpur",
+            "subDistData": [
+              "Sufalakatiup8",
+              "Sagardariup2",
+              "Majidpurup3",
+              "Mongolkotup5",
+              "Bidyanandakatiup4",
+              "Panjiaup7",
+              "Trimohiniup1",
+              "Gaurighonaup9",
+              "Keshabpurup6"
+            ]
+          },
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Lebutala",
+              "Ichhali",
+              "Arabpurup9",
+              "Upasahar",
+              "Kachuaup13",
+              "Kashimpurup6",
+              "Chanchra",
+              "Churamankati",
+              "Narendrapur",
+              "Noaparaup4",
+              "Fathehpur",
+              "Basundia",
+              "Ramnagar",
+              "Haibatpur",
+              "Dearamodel"
+            ]
+          },
+          {
+            "subDistrictName": "Sharsha",
+            "subDistData": [
+              "Ulshiup9",
+              "Sharshaup10",
+              "Lakshmanpurup2",
+              "Benapoleup4",
+              "Bahadurpurup3",
+              "Bagachraup8",
+              "Putkhaliup5",
+              "Nizampurup11",
+              "Dihiup1",
+              "Gogaup6",
+              "Kaybaup7"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Satkhira",
+        "distData": [
+          {
+            "subDistrictName": "Assasuni",
+            "subDistData": [
+              "Anulia",
+              "Assasuni",
+              "Kadakati",
+              "Kulla",
+              "Khajra",
+              "Durgapur",
+              "Pratapnagar",
+              "Budhhata",
+              "Baradal",
+              "Sreeula",
+              "Sobhnali"
+            ]
+          },
+          {
+            "subDistrictName": "Debhata",
+            "subDistData": [
+              "Kulia",
+              "Debhata",
+              "Noapara",
+              "Parulia",
+              "Sakhipur"
+            ]
+          },
+          {
+            "subDistrictName": "Kalaroa",
+            "subDistData": [
+              "Kushadanga",
+              "Keralkata",
+              "Keragachhi",
+              "Kaila",
+              "Jallabad",
+              "Jogikhali",
+              "Langaljhara",
+              "Sonabaria",
+              "Helatala",
+              "Chandanpur",
+              "Deara",
+              "Joynagar"
+            ]
+          },
+          {
+            "subDistrictName": "Satkhirasadar",
+            "subDistData": [
+              "Shibpur",
+              "Labsa",
+              "Bhomra",
+              "Brahmarajpur",
+              "Balli",
+              "Banshdaha",
+              "Baikari",
+              "Fingri",
+              "Dhulihar",
+              "Jhaudanga",
+              "Ghona",
+              "Kuskhali",
+              "Alipur",
+              "Agardari"
+            ]
+          },
+          {
+            "subDistrictName": "Shyamnagar",
+            "subDistData": [
+              "Atulia",
+              "Ishwaripur",
+              "Kaikhali",
+              "Kashimari",
+              "Nurnagar",
+              "Padmapukur",
+              "Burigoalini",
+              "Bhurulia",
+              "Munshiganj",
+              "Ramjannagar",
+              "Shyamnagar",
+              "Gabura"
+            ]
+          },
+          {
+            "subDistrictName": "Tala",
+            "subDistData": [
+              "Saruliaup3",
+              "Maguraup8",
+              "Nagarghataup1",
+              "Dhandiaup1",
+              "Tentuliaup5",
+              "Talaup6",
+              "Jalalpurup11",
+              "Khesraup10",
+              "Khalishkhaliup9",
+              "Khalilnagarup12",
+              "Kumiraup4",
+              "Islamkatiup7"
+            ]
+          },
+          {
+            "subDistrictName": "Kaliganj",
+            "subDistData": [
+              "Kushlia",
+              "Champaphul",
+              "Tarali",
+              "Dakshinsreepur",
+              "Dhalbaria",
+              "Nalta",
+              "Bishnupur",
+              "Bharasimla",
+              "Mathureshpur",
+              "Ratanpur",
+              "Mautala",
+              "Krishnanagar"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Meherpur",
+        "distData": [
+          {
+            "subDistrictName": "Mujibnagar",
+            "subDistData": [
+              "Dariapur",
+              "Monakhali",
+              "Bagowan",
+              "Mohajanpur"
+            ]
+          },
+          {
+            "subDistrictName": "Meherpursadar",
+            "subDistData": [
+              "Amjhupi",
+              "Pirojpur",
+              "Kutubpur",
+              "Amdah",
+              "Buripota"
+            ]
+          },
+          {
+            "subDistrictName": "Gangni",
+            "subDistData": [
+              "Tentulbaria",
+              "Kazipur",
+              "Bamondi",
+              "Motmura",
+              "Sholotaka",
+              "Shaharbati",
+              "Dhankolla",
+              "Raipur",
+              "Kathuli"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Narail",
+        "distData": [
+          {
+            "subDistrictName": "Narailsadar",
+            "subDistData": [
+              "Sheikhati",
+              "Tularampur",
+              "Kalora",
+              "Shahabad",
+              "Bashgram",
+              "Habokhali",
+              "Maijpara",
+              "Bisali",
+              "Chandiborpur",
+              "Bhadrabila",
+              "Auria",
+              "Singasholpur",
+              "Mulia"
+            ]
+          },
+          {
+            "subDistrictName": "Lohagara",
+            "subDistData": [
+              "Lohagora",
+              "Kashipur",
+              "Naldi",
+              "Noagram",
+              "Lahuria",
+              "Mallikpur",
+              "Salnagar",
+              "Lakshmipasha",
+              "Joypur",
+              "Kotakol",
+              "Digholiaup1",
+              "Itna"
+            ]
+          },
+          {
+            "subDistrictName": "Kalia",
+            "subDistData": [
+              "Jaynagor",
+              "Pahordanga",
+              "Babrahasla",
+              "Salamabad",
+              "Baioshona",
+              "Chacuri",
+              "Hamidpur",
+              "Peroli",
+              "Khashial",
+              "Purulia",
+              "Kalabaria",
+              "Mauli",
+              "Boronaleliasabad",
+              "Panchgram"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Chuadanga",
+        "distData": [
+          {
+            "subDistrictName": "Chuadangasadar",
+            "subDistData": [
+              "Alukdia",
+              "Mominpur",
+              "Titudah",
+              "Shankarchandra",
+              "Begumpur",
+              "Kutubpur",
+              "Padmabila"
+            ]
+          },
+          {
+            "subDistrictName": "Alamdanga",
+            "subDistData": [
+              "Bhangbaria",
+              "Baradi",
+              "Gangni",
+              "Khadimpur",
+              "Jehala",
+              "Belgachi",
+              "Dauki",
+              "Jamjami",
+              "Nagdah",
+              "Kashkorara",
+              "Chitla",
+              "Kalidashpur",
+              "Kumari",
+              "Hardi",
+              "Ailhash"
+            ]
+          },
+          {
+            "subDistrictName": "Damurhuda",
+            "subDistData": [
+              "Damurhuda",
+              "Karpashdanga",
+              "Natipota",
+              "Hawli",
+              "Kurulgachhi",
+              "Perkrishnopurmadna",
+              "Juranpur"
+            ]
+          },
+          {
+            "subDistrictName": "Jibannagar",
+            "subDistData": [
+              "Uthali",
+              "Andulbaria",
+              "Banka",
+              "Shimanto",
+              "Raypur",
+              "Hasadah"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Kushtia",
+        "distData": [
+          {
+            "subDistrictName": "Kushtiasadar",
+            "subDistData": [
+              "1nohatashharipur",
+              "2nobarkhada",
+              "3nomazampur",
+              "4nobottail",
+              "5noalampur",
+              "6noziaraakhi",
+              "7noailchara",
+              "8nopatikabari",
+              "9nojhaudia",
+              "10noujangram",
+              "11noabdulpur",
+              "12noharinarayanpur",
+              "13nomonohardia",
+              "14nogoswamidurgapur"
+            ]
+          },
+          {
+            "subDistrictName": "Kumarkhali",
+            "subDistData": [
+              "1nokaya",
+              "3nojagonnathpur",
+              "4nosadki",
+              "2noshelaidah",
+              "5nonandolalpur",
+              "6nochapra",
+              "7nobagulat",
+              "8nojaduboyra",
+              "9nochadpur",
+              "10nopanti",
+              "11nocharsadipur"
+            ]
+          },
+          {
+            "subDistrictName": "Khoksa",
+            "subDistData": [
+              "1nokhoksa",
+              "2noosmanpur",
+              "4nojanipur",
+              "5noshimulia",
+              "8nojoyntihazra",
+              "9noambaria",
+              "3nobethbaria",
+              "6noshomospur",
+              "Gopgram7"
+            ]
+          },
+          {
+            "subDistrictName": "Mirpur",
+            "subDistData": [
+              "Chithalia",
+              "Bahalbaria",
+              "Talbaria",
+              "Baruipara",
+              "Fulbaria",
+              "Amla",
+              "Sadarpur",
+              "Chhatian",
+              "Poradaha",
+              "Kursha",
+              "Ambaria",
+              "Dhubail",
+              "11nomalihad"
+            ]
+          },
+          {
+            "subDistrictName": "Daulatpur",
+            "subDistData": [
+              "Daulatpur",
+              "Adabaria",
+              "Hogolbaria",
+              "Boalia",
+              "Philipnagor",
+              "Aria",
+              "Khalishakundi",
+              "Chilmary",
+              "Mothurapur",
+              "Pragpur",
+              "Piarpur",
+              "Moricha",
+              "9norefaitpur",
+              "5noramkrishnopur"
+            ]
+          },
+          {
+            "subDistrictName": "Bheramara",
+            "subDistData": [
+              "5nodharampur",
+              "3nobahirchar",
+              "2nomukarimpur",
+              "6nojuniadah",
+              "4nochandgram",
+              "1nobahadurpur"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Magura",
+        "distData": [
+          {
+            "subDistrictName": "Shalikha",
+            "subDistData": [
+              "Dhaneshwargati",
+              "Talkhari",
+              "Arpara",
+              "Shatakhali",
+              "Shalikha",
+              "Bunagati",
+              "Gongarampur"
+            ]
+          },
+          {
+            "subDistrictName": "Sreepur",
+            "subDistData": [
+              "Goyespur",
+              "Sreekol",
+              "Dariapur",
+              "Kadirpara",
+              "Shobdalpur",
+              "Sreepur",
+              "Nakol",
+              "Amalshar"
+            ]
+          },
+          {
+            "subDistrictName": "Magurasadar",
+            "subDistData": [
+              "Hazipur",
+              "Atharokhada",
+              "Kosundi",
+              "Bogia",
+              "Hazrapur",
+              "Raghobdair",
+              "Jagdal",
+              "Chawlia",
+              "Satrijitpur",
+              "Baroilpolita",
+              "Kuchiamora",
+              "Gopalgram",
+              "Moghi"
+            ]
+          },
+          {
+            "subDistrictName": "Mohammadpur",
+            "subDistData": [
+              "Digha",
+              "Nohata",
+              "Palashbaria",
+              "Babukhali",
+              "Balidia",
+              "Binodpur",
+              "Mohammadpur",
+              "Rajapur"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Khulna",
+        "distData": [
+          {
+            "subDistrictName": "Paikgasa",
+            "subDistData": [
+              "Horidhali",
+              "Goroikhali",
+              "Kopilmuni",
+              "Lota",
+              "Deluti",
+              "Loskor",
+              "Godaipur",
+              "Www",
+              "Chandkhali",
+              "Soladana"
+            ]
+          },
+          {
+            "subDistrictName": "Fultola",
+            "subDistData": [
+              "Www",
+              "Www",
+              "Www",
+              "Www"
+            ]
+          },
+          {
+            "subDistrictName": "Digholia",
+            "subDistData": [
+              "Www",
+              "Www",
+              "Www",
+              "Www",
+              "Www",
+              "Www"
+            ]
+          },
+          {
+            "subDistrictName": "Rupsha",
+            "subDistData": [
+              "Aichgati",
+              "Srifoltola",
+              "Noihati",
+              "Tsb",
+              "Ghatvog"
+            ]
+          },
+          {
+            "subDistrictName": "Terokhada",
+            "subDistData": [
+              "Terokhada",
+              "Chagladoho",
+              "Www",
+              "Www",
+              "Www",
+              "Www"
+            ]
+          },
+          {
+            "subDistrictName": "Dumuria",
+            "subDistData": [
+              "Dumuria",
+              "Magurghona",
+              "Vandarpara",
+              "Sahos",
+              "Rudaghora",
+              "Ghutudia",
+              "Shovna",
+              "Khornia",
+              "Atlia",
+              "Dhamalia",
+              "Raghunathpur",
+              "Rongpur",
+              "Shorafpur",
+              "Magurkhali"
+            ]
+          },
+          {
+            "subDistrictName": "Botiaghata",
+            "subDistData": [
+              "Www",
+              "Www",
+              "Www",
+              "Www",
+              "Www",
+              "Www",
+              "Www"
+            ]
+          },
+          {
+            "subDistrictName": "Dakop",
+            "subDistData": [
+              "Www",
+              "Bajua",
+              "Www",
+              "Www",
+              "Www",
+              "Laudoba",
+              "Pankhali",
+              "Banishanta",
+              "Koilashgonj"
+            ]
+          },
+          {
+            "subDistrictName": "Koyra",
+            "subDistData": [
+              "Koyra",
+              "Moharajpur",
+              "Moheswaripur",
+              "Northbedkashi",
+              "Southbedkashi",
+              "Amadi",
+              "Bagali"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Bagerhat",
+        "distData": [
+          {
+            "subDistrictName": "Fakirhat",
+            "subDistData": [
+              "Betaga",
+              "Lakhpur",
+              "Fakirhat",
+              "Bahirdiamansa",
+              "Piljanga",
+              "Naldhamauvhog",
+              "Mulghar",
+              "Suvhadia"
+            ]
+          },
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Karapara",
+              "Bamorta",
+              "Gotapara",
+              "Bishnapur",
+              "Baruipara",
+              "Jatharapur",
+              "Shaitgomboj",
+              "Khanpur",
+              "Rakhalgachi",
+              "Dema"
+            ]
+          },
+          {
+            "subDistrictName": "Mollahat",
+            "subDistData": [
+              "Udoypur",
+              "Chunkhola",
+              "Gangni",
+              "Kulia",
+              "Gaola",
+              "Kodalia",
+              "Atjuri"
+            ]
+          },
+          {
+            "subDistrictName": "Sarankhola",
+            "subDistData": [
+              "Dhanshagor",
+              "Khontakata",
+              "Rayenda",
+              "Southkhali"
+            ]
+          },
+          {
+            "subDistrictName": "Rampal",
+            "subDistData": [
+              "Gouramva",
+              "Uzzalkur",
+              "Baintala",
+              "Rampal",
+              "Rajnagar",
+              "Hurka",
+              "Perikhali",
+              "Vospatia",
+              "Mollikerbar",
+              "Bastoli"
+            ]
+          },
+          {
+            "subDistrictName": "Morrelganj",
+            "subDistData": [
+              "Teligati",
+              "Panchakaran",
+              "Putikhali",
+              "Daibagnyahati",
+              "Ramchandrapur",
+              "Chingrakhali",
+              "Jiudhara",
+              "Hoglapasha",
+              "Banagram",
+              "Balaibunia",
+              "Hoglabunia",
+              "Baharbunia",
+              "Morrelganj",
+              "Khaulia",
+              "Nishanbaria",
+              "Baraikhali"
+            ]
+          },
+          {
+            "subDistrictName": "Kachua",
+            "subDistData": [
+              "Gojalia",
+              "Dhopakhali",
+              "Moghia",
+              "Kachua",
+              "Gopalpur",
+              "Raripara",
+              "Badhal"
+            ]
+          },
+          {
+            "subDistrictName": "Mongla",
+            "subDistData": [
+              "Burrirdangga",
+              "Mithakhali",
+              "Sonailtala",
+              "Chadpai",
+              "Chila",
+              "Sundarban"
+            ]
+          },
+          {
+            "subDistrictName": "Chitalmari",
+            "subDistData": [
+              "Barobaria",
+              "Kalatala",
+              "Hizla",
+              "Shibpur",
+              "Chitalmari",
+              "Charbaniri",
+              "Shantoshpur"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Jhenaidah",
+        "distData": [
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Sadhuhati",
+              "Modhuhati",
+              "Saganna",
+              "Halidhani",
+              "Kumrabaria",
+              "Ganna",
+              "Maharazpur",
+              "Paglakanai",
+              "Porahati",
+              "Harishongkorpur",
+              "Padmakar",
+              "Dogachhi",
+              "Furshondi",
+              "Ghorshal",
+              "Kalicharanpur",
+              "Surat",
+              "Naldanga"
+            ]
+          },
+          {
+            "subDistrictName": "Shailkupa",
+            "subDistData": [
+              "Tribeni",
+              "Mirzapur",
+              "Dignagore",
+              "Kancherkol",
+              "Sarutia",
+              "Hakimpur",
+              "Dhaloharachandra",
+              "Manoharpur",
+              "Bogura",
+              "Abaipur",
+              "Nityanandapur",
+              "Umedpur",
+              "Dudshar",
+              "Fulhari"
+            ]
+          },
+          {
+            "subDistrictName": "Harinakundu",
+            "subDistData": [
+              "Bhayna",
+              "Joradah",
+              "Taherhuda",
+              "Daulatpur",
+              "Kapashatia",
+              "Falsi",
+              "Raghunathpur",
+              "Chandpur"
+            ]
+          },
+          {
+            "subDistrictName": "Kaliganj",
+            "subDistData": [
+              "Sundarpurdurgapur",
+              "Jamal",
+              "Kola",
+              "Niamatpur",
+              "Simlarokonpur",
+              "Trilochanpur",
+              "Raygram",
+              "Maliat",
+              "Barabazar",
+              "Kashtabhanga",
+              "Rakhalgachhi"
+            ]
+          },
+          {
+            "subDistrictName": "Kotchandpur",
+            "subDistData": [
+              "Sabdalpur",
+              "Dora",
+              "Kushna",
+              "Baluhar",
+              "Elangi"
+            ]
+          },
+          {
+            "subDistrictName": "Moheshpur",
+            "subDistData": [
+              "Sbk",
+              "Fatepur",
+              "Panthapara",
+              "Swaruppur",
+              "Shyamkur",
+              "Nepa",
+              "Kazirber",
+              "Banshbaria",
+              "Jadabpur",
+              "Natima",
+              "Manderbaria",
+              "Azampur"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "divisionName": "Barishal",
+    "divData": [
+      {
+        "districtName": "Jhalakathi",
+        "distData": [
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Basanda",
+              "Binoykati",
+              "Gabharamchandrapur",
+              "Keora",
+              "Kirtipasha",
+              "Nabagram",
+              "Nathullabad",
+              "Ponabalia",
+              "Sekherhat",
+              "Gabkhandhansiri"
+            ]
+          },
+          {
+            "subDistrictName": "Kathalia",
+            "subDistData": [
+              "Amua",
+              "Awrabunia",
+              "Chenchrirampur",
+              "Kanthalia",
+              "Patikhalghata",
+              "Shaulajalia"
+            ]
+          },
+          {
+            "subDistrictName": "Nalchity",
+            "subDistData": [
+              "Subidpur",
+              "Siddhakati",
+              "Ranapasha",
+              "Nachanmohal",
+              "Mollahat",
+              "Magar",
+              "Kusanghal",
+              "Kulkathi",
+              "Dapdapia",
+              "Bharabpasha"
+            ]
+          },
+          {
+            "subDistrictName": "Rajapur",
+            "subDistData": [
+              "Suktagarh",
+              "Saturia",
+              "Mathbari",
+              "Galua",
+              "Baraia",
+              "Rajapur"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Patuakhali",
+        "distData": [
+          {
+            "subDistrictName": "Bauphal",
+            "subDistData": [
+              "Adabaria",
+              "Bauphal",
+              "Daspara",
+              "Kalaiya",
+              "Nawmala",
+              "Najirpur",
+              "Madanpura",
+              "Boga",
+              "Kanakdia",
+              "Shurjamoni",
+              "Keshabpur",
+              "Dhulia",
+              "Kalisuri",
+              "Kachipara"
+            ]
+          },
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Laukathi",
+              "Lohalia",
+              "Kamalapur",
+              "Jainkathi",
+              "Kalikapur",
+              "Badarpur",
+              "Itbaria",
+              "Marichbunia",
+              "Auliapur",
+              "Chotobighai",
+              "Borobighai",
+              "Madarbunia"
+            ]
+          },
+          {
+            "subDistrictName": "Dumki",
+            "subDistData": [
+              "Pangasia",
+              "Muradia",
+              "Labukhali",
+              "Angaria",
+              "Sreerampur"
+            ]
+          },
+          {
+            "subDistrictName": "Dashmina",
+            "subDistData": [
+              "Bashbaria",
+              "Rangopaldi",
+              "Alipur",
+              "Betagishankipur",
+              "Dashmina",
+              "Baharampur"
+            ]
+          },
+          {
+            "subDistrictName": "Kalapara",
+            "subDistData": [
+              "Chakamaia",
+              "Tiakhali",
+              "Lalua",
+              "Dhankhali",
+              "Mithagonj",
+              "Nilgonj",
+              "Dulaser",
+              "Latachapli",
+              "Mahipur",
+              "Dalbugonj",
+              "Baliatali",
+              "Champapur"
+            ]
+          },
+          {
+            "subDistrictName": "Mirzaganj",
+            "subDistData": [
+              "Madhabkhali",
+              "Mirzaganj",
+              "Amragachia",
+              "Deulisubidkhali",
+              "Kakrabunia",
+              "Majidbaria"
+            ]
+          },
+          {
+            "subDistrictName": "Galachipa",
+            "subDistData": [
+              "Amkhola",
+              "Golkhali",
+              "Galachipa",
+              "Panpatty",
+              "Ratanditaltali",
+              "Dakua",
+              "Chiknikandi",
+              "Gazalia",
+              "Charkajol",
+              "Charbiswas",
+              "Bakulbaria",
+              "Kalagachhia"
+            ]
+          },
+          {
+            "subDistrictName": "Rangabali",
+            "subDistData": [
+              "Rangabali",
+              "Barobaisdia",
+              "Chattobaisdia",
+              "Charmontaz",
+              "chalitabunia"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Pirojpur",
+        "distData": [
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Shikdermallik",
+              "Kodomtala",
+              "Durgapur",
+              "Kolakhali",
+              "Tona",
+              "Shariktola",
+              "Shankorpasa"
+            ]
+          },
+          {
+            "subDistrictName": "Nazirpur",
+            "subDistData": [
+              "Mativangga",
+              "Malikhali",
+              "Daulbaridobra",
+              "Dirgha",
+              "Kolardoania",
+              "Sriramkathi",
+              "Shakhmatia",
+              "Nazirpursadar",
+              "Shakharikathi"
+            ]
+          },
+          {
+            "subDistrictName": "Kawkhali",
+            "subDistData": [
+              "Saynarogunathpur",
+              "Amrazuri",
+              "Kawkhalisadar",
+              "Chirapara",
+              "Shialkhathi"
+            ]
+          },
+          {
+            "subDistrictName": "Bhandaria",
+            "subDistData": [
+              "Vitabaria",
+              "Nodmulla",
+              "Telikhali",
+              "Ekree",
+              "Dhaoa",
+              "Vandariasadar",
+              "Gouripur"
+            ]
+          },
+          {
+            "subDistrictName": "Mathbaria",
+            "subDistData": [
+              "Tuskhali",
+              "Dhanisafa",
+              "Mirukhali",
+              "Tikikata",
+              "Betmorrajpara",
+              "Amragachia",
+              "Shapleza",
+              "Daudkhali",
+              "Mathbaria",
+              "Baramasua",
+              "Haltagulishakhali"
+            ]
+          },
+          {
+            "subDistrictName": "Nesarabad",
+            "subDistData": [
+              "Boldia",
+              "Sohagdal",
+              "Atghorkuriana",
+              "Jolabari",
+              "Doyhary",
+              "Guarekha",
+              "Somudoykathi",
+              "Sutiakathi",
+              "Sarengkathi",
+              "Shorupkathi"
+            ]
+          },
+          {
+            "subDistrictName": "Indurkani",
+            "subDistData": [
+              "Balipara",
+              "Pattashi",
+              "Parerhat",
+              "Indurkanisadar",
+              "Chandipur"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Barishal",
+        "distData": [
+          {
+            "subDistrictName": "Barishalsadar",
+            "subDistData": [
+              "Raipashakarapur",
+              "Kashipur",
+              "Charbaria",
+              "Shyastabad",
+              "Charmonai",
+              "Zagua",
+              "Charcowa",
+              "Chandpura",
+              "Tungibaria",
+              "Chandramohan"
+            ]
+          },
+          {
+            "subDistrictName": "Bakerganj",
+            "subDistData": [
+              "Charamaddi",
+              "Charade",
+              "Darial",
+              "Dudhal",
+              "Durgapasha",
+              "Faridpur",
+              "Kabai",
+              "Nalua",
+              "Kalashkathi",
+              "Garuria",
+              "Bharpasha",
+              "Rangasree",
+              "Padreeshibpur",
+              "Niamoti"
+            ]
+          },
+          {
+            "subDistrictName": "Babuganj",
+            "subDistData": [
+              "Jahangirnagor",
+              "Kaderpur",
+              "Deherhoti",
+              "Chandpasha",
+              "Rahamtpur",
+              "Madhbpasha"
+            ]
+          },
+          {
+            "subDistrictName": "Wazirpur",
+            "subDistData": [
+              "Shatla",
+              "Harta",
+              "Jalla",
+              "Otra",
+              "Sholok",
+              "Barakhota",
+              "Bamrail",
+              "Shikerpurwazirpur",
+              "Gouthia"
+            ]
+          },
+          {
+            "subDistrictName": "Banaripara",
+            "subDistData": [
+              "Bisharkandi",
+              "Illuhar",
+              "Sayedkathi",
+              "Chakhar",
+              "Saliabakpur",
+              "Baishari",
+              "Banaripara",
+              "Udykhati"
+            ]
+          },
+          {
+            "subDistrictName": "Gournadi",
+            "subDistData": [
+              "Khanjapur",
+              "Barthi",
+              "Chandshi",
+              "Mahilara",
+              "Nalchira",
+              "Batajore",
+              "Sarikal"
+            ]
+          },
+          {
+            "subDistrictName": "Agailjhara",
+            "subDistData": [
+              "Rajihar",
+              "Bakal",
+              "Bagdha",
+              "Goila",
+              "Ratnapur"
+            ]
+          },
+          {
+            "subDistrictName": "Mehendiganj",
+            "subDistData": [
+              "Andarmanik",
+              "Lata",
+              "Charakkorea",
+              "Northulania",
+              "Mehendigong",
+              "Biddanandapur",
+              "Bhashanchar",
+              "Jangalia",
+              "Alimabad",
+              "Chandpur",
+              "Darircharkhajuria",
+              "Gobindapur",
+              "Chargopalpur",
+              "Southulania",
+              "Sreepur",
+              "Joynagar"
+            ]
+          },
+          {
+            "subDistrictName": "Muladi",
+            "subDistData": [
+              "Batamara",
+              "Nazirpur",
+              "Safipur",
+              "Gaschua",
+              "Charkalekha",
+              "Muladi",
+              "Kazirchar"
+            ]
+          },
+          {
+            "subDistrictName": "Hizla",
+            "subDistData": [
+              "Harinathpur",
+              "Memania",
+              "Guabaria",
+              "Barjalia",
+              "Hizlagourabdi",
+              "Dhulkhola"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Bhola",
+        "distData": [
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Razapur",
+              "Ilisha",
+              "Westilisa",
+              "Kachia",
+              "Bapta",
+              "Dhania",
+              "Shibpur",
+              "Alinagor",
+              "Charshamya",
+              "Vhelumia",
+              "Vheduria",
+              "Northdigholdi",
+              "Southdigholdi"
+            ]
+          },
+          {
+            "subDistrictName": "Borhanuddin",
+            "subDistData": [
+              "Boromanika",
+              "Deula",
+              "Kutuba",
+              "Pakshia",
+              "Kachiaup4",
+              "Tobgi",
+              "Sachra",
+              "Hasannogor",
+              "Gongapur"
+            ]
+          },
+          {
+            "subDistrictName": "Charfesson",
+            "subDistData": [
+              "Osmangonj",
+              "Aslampur",
+              "Zinnagor",
+              "Aminabad",
+              "Nilkomol",
+              "Charmadraj",
+              "Awajpur",
+              "Awajpur",
+              "Charkolmi",
+              "Charmanika",
+              "Hazarigonj",
+              "jahanpur",
+              "Nurabad",
+              "Rasulpur",
+              "Kukrimukri",
+              "Abubakarpur",
+              "Abdullahpur",
+              "Nazrulnagar",
+              "Mujibnagar",
+              "Dalchar"
+            ]
+          },
+          {
+            "subDistrictName": "Doulatkhan",
+            "subDistData": [
+              "Madanpur",
+              "Madua",
+              "Charpata",
+              "Northjoynagar",
+              "Southjoynagar",
+              "Charkhalipa",
+              "Sayedpur",
+              "Hazipur",
+              "Vhovanipur"
+            ]
+          },
+          {
+            "subDistrictName": "Monpura",
+            "subDistData": [
+              "Hazirhat",
+              "Monpura",
+              "Sakuchianorth",
+              "Sakuchiasouth"
+            ]
+          },
+          {
+            "subDistrictName": "Tazumuddin",
+            "subDistData": [
+              "Chanchra",
+              "Shambupur",
+              "Sonapur",
+              "Chadpur",
+              "Baromolongchora"
+            ]
+          },
+          {
+            "subDistrictName": "Lalmohan",
+            "subDistData": [
+              "Badarpur",
+              "Charbhuta",
+              "Kalma",
+              "Dholigournagar",
+              "Lalmohan",
+              "Lordhardinge",
+              "Ramagonj",
+              "Paschimcharumed",
+              "Farajgonj"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Barguna",
+        "distData": [
+          {
+            "subDistrictName": "Amtali",
+            "subDistData": [
+              "Amtali",
+              "Gulishakhali",
+              "Athrogasia",
+              "Kukua",
+              "Haldia",
+              "Chotobogi",
+              "Arpangasia",
+              "Chowra"
+            ]
+          },
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "M",
+              "Noltona",
+              "Bodorkhali",
+              "Gowrichanna",
+              "Fuljhuri",
+              "Keorabunia",
+              "AylaPatakata",
+              "Burirchor",
+              "Dhalua",
+              "Barguna"
+            ]
+          },
+          {
+            "subDistrictName": "Betagi",
+            "subDistData": [
+              "Bibichini",
+              "Betagi",
+              "Hosnabad",
+              "Mokamia",
+              "Buramajumder",
+              "Kazirabad",
+              "Sarisamuri"
+            ]
+          },
+          {
+            "subDistrictName": "Bamna",
+            "subDistData": [
+              "Bukabunia",
+              "Bamna",
+              "Ramna",
+              "Doutola"
+            ]
+          },
+          {
+            "subDistrictName": "Pathorghata",
+            "subDistData": [
+              "Raihanpur",
+              "Nachnapara",
+              "Charduany",
+              "Patharghata",
+              "Kalmegha",
+              "Kakchira",
+              "Kathaltali"
+            ]
+          },
+          {
+            "subDistrictName": "Taltali",
+            "subDistData": [
+              "Karibaria",
+              "Panchakoralia",
+              "Barabagi",
+              "Chotobogi",
+              "Nishanbaria",
+              "Sarikkhali",
+              "Sonakata"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "divisionName": "Rangpur",
+    "divData": [
+      {
+        "districtName": "Panchagarh",
+        "distData": [
+          {
+            "subDistrictName": "Panchagarhsadar",
+            "subDistData": [
+              "Panchagarhsadar",
+              "Satmara",
+              "Amarkhana",
+              "Haribhasa",
+              "Chaklahat",
+              "Hafizabad",
+              "Kamatkajoldighi",
+              "Dhakkamara",
+              "Magura",
+              "Garinabari"
+            ]
+          },
+          {
+            "subDistrictName": "Debiganj",
+            "subDistData": [
+              "Chilahati",
+              "Shaldanga",
+              "Debiganjsadar",
+              "Pamuli",
+              "Sundardighi",
+              "Sonaharmollikadaha",
+              "Tepriganj",
+              "Dandopal",
+              "Debiduba",
+              "Chengthihazradanga"
+            ]
+          },
+          {
+            "subDistrictName": "Boda",
+            "subDistData": [
+              "Jholaishalshiri",
+              "Moidandighi",
+              "Banghari",
+              "Kajoldighikaligonj",
+              "Boroshoshi",
+              "Chandanbari",
+              "Mareabamonhat",
+              "Boda",
+              "Sakoa",
+              "Pachpir"
+            ]
+          },
+          {
+            "subDistrictName": "Atwari",
+            "subDistData": [
+              "Mirgapur",
+              "Radhanagar",
+              "Toria",
+              "Balarampur",
+              "Alowakhowa",
+              "Dhamor"
+            ]
+          },
+          {
+            "subDistrictName": "Tetulia",
+            "subDistData": [
+              "Banglabandha",
+              "Bhojoanpur",
+              "Bhojoanpur",
+              "Buraburi",
+              "Debnagar",
+              "Salbahan",
+              "Tentulia",
+              "Timaihat"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Dinajpur",
+        "distData": [
+          {
+            "subDistrictName": "Nawabganj",
+            "subDistData": [
+              "Joypur",
+              "Binodnagar",
+              "Golapgonj",
+              "Shalkhuria",
+              "Putimara",
+              "Bhaduria",
+              "Daudpur",
+              "Mahmudpur",
+              "Kushdaha"
+            ]
+          },
+          {
+            "subDistrictName": "Birganj",
+            "subDistData": [
+              "Shibrampur",
+              "Polashbariup2",
+              "Shatagram",
+              "Paltapur",
+              "Sujalpur",
+              "Nijpara",
+              "Mohammadpur",
+              "Bhognagar",
+              "Sator",
+              "Mohonpur",
+              "Moricha"
+            ]
+          },
+          {
+            "subDistrictName": "Ghoraghat",
+            "subDistData": [
+              "Bulakipur",
+              "Palsha",
+              "Singra",
+              "Ghoraghat"
+            ]
+          },
+          {
+            "subDistrictName": "Birampur",
+            "subDistData": [
+              "Mukundopur",
+              "Katla",
+              "Khanpur",
+              "Dior",
+              "Binail",
+              "Jatbani",
+              "Poliproyagpur"
+            ]
+          },
+          {
+            "subDistrictName": "Parbatipur",
+            "subDistData": [
+              "Belaichandi",
+              "Monmothopur",
+              "Rampur",
+              "Polashbariup4",
+              "Chandipur",
+              "Mominpur",
+              "Mostofapur",
+              "Habra",
+              "Hamidpur",
+              "Harirampur"
+            ]
+          },
+          {
+            "subDistrictName": "Bochaganj",
+            "subDistData": [
+              "Nafanagar",
+              "Eshania",
+              "Atgaon",
+              "Shatail",
+              "Rongaon",
+              "Murshidhat"
+            ]
+          },
+          {
+            "subDistrictName": "Kaharol",
+            "subDistData": [
+              "Dabor",
+              "Rasulpur",
+              "Mukundapur",
+              "Targao",
+              "Ramchandrapur",
+              "Sundarpur"
+            ]
+          },
+          {
+            "subDistrictName": "Fulbari",
+            "subDistData": [
+              "Aloary",
+              "Aladipur",
+              "Kagihal",
+              "Bethdighi",
+              "Khairbari",
+              "Daulatpur",
+              "Shibnagor"
+            ]
+          },
+          {
+            "subDistrictName": "Dinajpursadar",
+            "subDistData": [
+              "Chealgazi",
+              "Sundorbon",
+              "Fazilpur",
+              "Shekpura",
+              "Shashora",
+              "Auliapur",
+              "Uthrail",
+              "Sankarpur",
+              "Askorpur",
+              "Kamalpur"
+            ]
+          },
+          {
+            "subDistrictName": "Hakimpur",
+            "subDistData": [
+              "Alihat",
+              "Khattamadobpara",
+              "Boalder"
+            ]
+          },
+          {
+            "subDistrictName": "Khansama",
+            "subDistData": [
+              "Alokjhari",
+              "Bherbheri",
+              "Angarpara",
+              "Goaldihi",
+              "Bhabki",
+              "Khamarpara"
+            ]
+          },
+          {
+            "subDistrictName": "Birol",
+            "subDistData": [
+              "Azimpur",
+              "Farakkabad",
+              "Dhamoir",
+              "Shohorgram",
+              "Birol",
+              "Bhandra",
+              "Bijora",
+              "Dharmapur",
+              "Mongalpur",
+              "Ranipukur",
+              "Rajarampur"
+            ]
+          },
+          {
+            "subDistrictName": "Chirirbandar",
+            "subDistData": [
+              "Nashratpur",
+              "Satnala",
+              "Fatejangpur",
+              "Isobpur",
+              "Abdulpur",
+              "Amarpur",
+              "Auliapukur",
+              "Saitara",
+              "Viail",
+              "Punotti",
+              "Tetulia",
+              "Alokdihi"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Lalmonirhat",
+        "distData": [
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Rajpur",
+              "Harati",
+              "Mogolhat",
+              "Gokunda",
+              "Barobari",
+              "Kulaghat",
+              "Mohendranagar",
+              "Khuniagachh",
+              "Panchagram"
+            ]
+          },
+          {
+            "subDistrictName": "Kaliganj",
+            "subDistData": [
+              "Bhotmari",
+              "Modati",
+              "Dologram",
+              "Tushbhandar",
+              "Goral",
+              "Chondropur",
+              "Cholbola",
+              "Kakina"
+            ]
+          },
+          {
+            "subDistrictName": "Hatibandha",
+            "subDistData": [
+              "Barokhata",
+              "Goddimari",
+              "Singimari",
+              "Tongvhanga",
+              "Sindurna",
+              "Paticapara",
+              "Nowdabas",
+              "Gotamari",
+              "Vhelaguri",
+              "Shaniajan",
+              "Fakirpara",
+              "Dawabari"
+            ]
+          },
+          {
+            "subDistrictName": "Patgram",
+            "subDistData": [
+              "Sreerampur",
+              "Patgram",
+              "Jagatber",
+              "Kuchlibari",
+              "Jongra",
+              "Baura",
+              "Dahagram",
+              "Burimari"
+            ]
+          },
+          {
+            "subDistrictName": "Aditmari",
+            "subDistData": [
+              "Bhelabari",
+              "Bhadai",
+              "Kamlabari",
+              "Durgapur",
+              "Sarpukur",
+              "Saptibari",
+              "Palashi",
+              "Mohishkhocha"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Nilphamari",
+        "distData": [
+          {
+            "subDistrictName": "Syedpur",
+            "subDistData": [
+              "Kamarpukur",
+              "Kasirambelpukur",
+              "Bangalipur",
+              "Botlagari",
+              "Khatamadhupur"
+            ]
+          },
+          {
+            "subDistrictName": "Domar",
+            "subDistData": [
+              "Gomnati",
+              "Bhogdaburi",
+              "Ketkibari",
+              "Jorabari",
+              "Bamunia",
+              "Pangamotukpur",
+              "Boragari",
+              "Domar",
+              "Sonarayup2",
+              "Harinchara"
+            ]
+          },
+          {
+            "subDistrictName": "Dimla",
+            "subDistData": [
+              "Paschimchhatnay",
+              "Balapara",
+              "Dimlasadar",
+              "Khogakharibari",
+              "Gayabari",
+              "Noutara",
+              "Khalishachapani",
+              "Jhunagachhchapani",
+              "Tepakhribari",
+              "Purbachhatnay"
+            ]
+          },
+          {
+            "subDistrictName": "Jaldhaka",
+            "subDistData": [
+              "Douabari",
+              "Golmunda",
+              "Balagram",
+              "Golna",
+              "Dharmapal",
+              "Simulbari",
+              "Mirganj",
+              "Kathali",
+              "Khutamara",
+              "Shaulmari",
+              "Kaimari"
+            ]
+          },
+          {
+            "subDistrictName": "Kishorganj",
+            "subDistData": [
+              "Barabhita",
+              "Putimari",
+              "Nitai",
+              "Bahagili",
+              "Chandkhana",
+              "Kishoreganj",
+              "Ranachandi",
+              "Garagram",
+              "Magura"
+            ]
+          },
+          {
+            "subDistrictName": "Nilphamarisadar",
+            "subDistData": [
+              "Chaorabargacha",
+              "Gorgram",
+              "Khoksabari",
+              "Palasbari",
+              "Ramnagar",
+              "Kachukata",
+              "Panchapukur",
+              "Itakhola",
+              "Kundapukur",
+              "Sonaray",
+              "Songalsi",
+              "Charaikhola",
+              "Chaprasarnjami",
+              "Lakshmicha",
+              "Tupamari"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Gaibandha",
+        "distData": [
+          {
+            "subDistrictName": "Sadullapur",
+            "subDistData": [
+              "Rasulpur",
+              "Noldanga",
+              "Damodorpur",
+              "Jamalpur",
+              "Faridpur",
+              "Dhaperhat",
+              "Idilpur",
+              "Vatgram",
+              "Bongram",
+              "Kamarpara",
+              "Khodkomor"
+            ]
+          },
+          {
+            "subDistrictName": "Gaibandhasadar",
+            "subDistData": [
+              "Laxmipur",
+              "Malibari",
+              "Kuptola",
+              "Shahapara",
+              "Ballamjhar",
+              "Ramchandrapur",
+              "Badiakhali",
+              "Boali",
+              "Ghagoa",
+              "Gidari",
+              "Kholahati",
+              "Mollarchar",
+              "Kamarjani"
+            ]
+          },
+          {
+            "subDistrictName": "Palashbari",
+            "subDistData": [
+              "Kishoregari",
+              "Hosenpur",
+              "Palashbari",
+              "Barisal",
+              "Mohdipur",
+              "Betkapa",
+              "Pobnapur",
+              "Monohorpur",
+              "Harinathpur"
+            ]
+          },
+          {
+            "subDistrictName": "Saghata",
+            "subDistData": [
+              "Padumsahar",
+              "Varotkhali",
+              "Saghata",
+              "Muktinagar",
+              "Kachua",
+              "Ghuridah",
+              "Holdia",
+              "Jumarbari",
+              "Kamalerpara",
+              "Bonarpara"
+            ]
+          },
+          {
+            "subDistrictName": "Gobindaganj",
+            "subDistData": [
+              "Kamdia",
+              "Katabari",
+              "Shakhahar",
+              "Rajahar",
+              "Sapmara",
+              "Dorbosto",
+              "Talukkanupur",
+              "Nakai",
+              "Harirampur",
+              "Rakhalburuj",
+              "Phulbari",
+              "Gumaniganj",
+              "Kamardoho",
+              "Kochasahar",
+              "Shibpur",
+              "Mahimaganj",
+              "Shalmara"
+            ]
+          },
+          {
+            "subDistrictName": "Sundarganj",
+            "subDistData": [
+              "Bamondanga",
+              "Sonaroy",
+              "Tarapur",
+              "Belka",
+              "Dohbond",
+              "Sorbanondo",
+              "Ramjibon",
+              "Dhopadanga",
+              "Chaporhati",
+              "Shantiram",
+              "Konchibari",
+              "Sreepur",
+              "Chandipur",
+              "Kapasia",
+              "Haripur"
+            ]
+          },
+          {
+            "subDistrictName": "Phulchari",
+            "subDistData": [
+              "Kanchipara",
+              "Uria",
+              "Udakhali",
+              "Gazaria",
+              "Phulchari",
+              "Erendabari",
+              "Fazlupur"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Thakurgaon",
+        "distData": [
+          {
+            "subDistrictName": "Thakurgaonsadar",
+            "subDistData": [
+              "Ruhea",
+              "Akhanagar",
+              "Ahcha",
+              "Baragaon",
+              "Balia",
+              "Auliapur",
+              "Chilarang",
+              "Rahimanpur",
+              "Roypur",
+              "Jamalpur",
+              "Mohammadpur",
+              "Salandar",
+              "Gareya",
+              "Rajagaon",
+              "Debipur",
+              "Nargun",
+              "Jagannathpur",
+              "Sukhanpukhari",
+              "Begunbari",
+              "Ruhiapashchim",
+              "Dholarhat"
+            ]
+          },
+          {
+            "subDistrictName": "Pirganj",
+            "subDistData": [
+              "Bhomradaha",
+              "Kosharaniganj",
+              "Khangaon",
+              "Saidpur",
+              "Pirganj",
+              "Hajipur",
+              "Daulatpur",
+              "Sengaon",
+              "Jabarhat",
+              "Bairchuna"
+            ]
+          },
+          {
+            "subDistrictName": "Ranisankail",
+            "subDistData": [
+              "Dhormogarh",
+              "Nekmorod",
+              "Hosengaon",
+              "Lehemba",
+              "Bachor",
+              "Kashipur",
+              "Ratore",
+              "Nonduar"
+            ]
+          },
+          {
+            "subDistrictName": "Haripur",
+            "subDistData": [
+              "Gedura",
+              "Amgaon",
+              "Bakua",
+              "Dangipara",
+              "Haripur",
+              "Bhaturia"
+            ]
+          },
+          {
+            "subDistrictName": "Baliadangi",
+            "subDistData": [
+              "Paria",
+              "Charol",
+              "Dhontola",
+              "Boropalashbari",
+              "Duosuo",
+              "Vanor",
+              "Amjankhore",
+              "Borobari"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Rangpur",
+        "distData": [
+          {
+            "subDistrictName": "Rangpursadar",
+            "subDistData": [
+              "Mominpur",
+              "Horidebpur",
+              "Uttam",
+              "Porshuram",
+              "Topodhan",
+              "Satgara",
+              "Rajendrapur",
+              "Sadwapuskoroni",
+              "Chandanpat",
+              "Dorshona",
+              "Tampat",
+              "Kholeya"
+            ]
+          },
+          {
+            "subDistrictName": "Gangachara",
+            "subDistData": [
+              "Betgari",
+              "Borobil",
+              "Kolcondo",
+              "Gongachora",
+              "Gojoghonta",
+              "Morneya",
+              "Alambiditor",
+              "Lakkhitari",
+              "Nohali"
+            ]
+          },
+          {
+            "subDistrictName": "Taragonj",
+            "subDistData": [
+              "Kurshatara",
+              "Alampur",
+              "Soyar",
+              "Ikorchali",
+              "Hariarkuthi"
+            ]
+          },
+          {
+            "subDistrictName": "Badargonj",
+            "subDistData": [
+              "Radhanagar",
+              "Gopinathpur",
+              "Modhupur",
+              "Kutubpur",
+              "Bishnapur",
+              "Kalupara",
+              "Lohanipara",
+              "Gopalpur",
+              "Damodorpur",
+              "Ramnathpurupb"
+            ]
+          },
+          {
+            "subDistrictName": "Mithapukur",
+            "subDistData": [
+              "Khoragach",
+              "Ranipukur",
+              "Payrabond",
+              "Vangni",
+              "Balarhat",
+              "Kafrikhal",
+              "Latibpur",
+              "Chengmari",
+              "Moyenpur",
+              "Baluyamasimpur",
+              "Borobala",
+              "Mirzapur",
+              "Imadpur",
+              "Milonpur",
+              "Mgopalpur",
+              "Durgapur",
+              "Borohazratpur"
+            ]
+          },
+          {
+            "subDistrictName": "Pirgonj",
+            "subDistData": [
+              "Chattracol",
+              "Vendabari",
+              "Borodargah",
+              "Kumedpur",
+              "Modankhali",
+              "Tukuria",
+              "Boroalampur",
+              "Raypur",
+              "Pirgonj",
+              "Shanerhat",
+              "Mithipur",
+              "Ramnathpurup1",
+              "Chattra",
+              "Kabilpur",
+              "Pachgachi"
+            ]
+          },
+          {
+            "subDistrictName": "Kaunia",
+            "subDistData": [
+              "Sarai",
+              "Balapara",
+              "Shahidbag",
+              "Haragach",
+              "Tepamodhupur",
+              "Kurshaupk"
+            ]
+          },
+          {
+            "subDistrictName": "Pirgacha",
+            "subDistData": [
+              "Kollyani",
+              "Parul",
+              "Itakumari",
+              "Saula",
+              "Kandi",
+              "Pirgacha",
+              "Annodanagar",
+              "Tambulpur",
+              "Koikuri"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Kurigram",
+        "distData": [
+          {
+            "subDistrictName": "Kurigramsadar",
+            "subDistData": [
+              "Holokhana",
+              "Ghogadhoh",
+              "Belgacha",
+              "Mogolbasa",
+              "Panchgachi",
+              "Jatrapur",
+              "Kanthalbari",
+              "Bhogdanga"
+            ]
+          },
+          {
+            "subDistrictName": "Nageshwari",
+            "subDistData": [
+              "Ramkhana",
+              "Raigonj",
+              "Bamondanga",
+              "Berubari",
+              "Sontaspur",
+              "Hasnabad",
+              "Newyashi",
+              "Bhitorbond",
+              "Kaligonj",
+              "Noonkhawa",
+              "Narayanpur",
+              "Kedar",
+              "Kachakata",
+              "Bollobherkhas"
+            ]
+          },
+          {
+            "subDistrictName": "Bhurungamari",
+            "subDistData": [
+              "Pathordubi",
+              "Shilkhuri",
+              "Tilai",
+              "Paikarchara",
+              "Bhurungamari",
+              "Joymonirhat",
+              "Andharirjhar",
+              "Charbhurungamari",
+              "Bangasonahat",
+              "Boldia"
+            ]
+          },
+          {
+            "subDistrictName": "Phulbari",
+            "subDistData": [
+              "Nawdanga",
+              "Shimulbari",
+              "Phulbari",
+              "Baravita",
+              "Bhangamor",
+              "Kashipur"
+            ]
+          },
+          {
+            "subDistrictName": "Rajarhat",
+            "subDistData": [
+              "Chinai",
+              "Rajarhat",
+              "Nazimkhan",
+              "Gharialdanga",
+              "Chakirpashar",
+              "Biddanondo",
+              "Umarmajid"
+            ]
+          },
+          {
+            "subDistrictName": "Ulipur",
+            "subDistData": [
+              "Daldalia",
+              "Durgapur",
+              "Pandul",
+              "Buraburi",
+              "Dharanibari",
+              "Dhamsreni",
+              "Gunaigas",
+              "Bazra",
+              "Tobockpur",
+              "Hatia",
+              "Begumgonj",
+              "Shahabiaralga",
+              "Thetrai"
+            ]
+          },
+          {
+            "subDistrictName": "Chilmari",
+            "subDistData": [
+              "Ranigonj",
+              "Nayarhat",
+              "Thanahat",
+              "Ramna",
+              "Chilmari",
+              "Austomirchar"
+            ]
+          },
+          {
+            "subDistrictName": "Rowmari",
+            "subDistData": [
+              "Dadevanga",
+              "Shoulemari",
+              "Bondober",
+              "Rowmari",
+              "Jadurchar",
+              "Chorshoulemari"
+            ]
+          },
+          {
+            "subDistrictName": "Charrajibpur",
+            "subDistData": [
+              "Rajibpur",
+              "Kodalkati",
+              "Mohongonj"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "divisionName": "Sylhet",
+    "divData": [
+      {
+        "districtName": "Sylhet",
+        "distData": [
+          {
+            "subDistrictName": "Balaganj",
+            "subDistData": [
+              "Tazpur",
+              "Umorpur",
+              "Westpoilanpur",
+              "Eastpoilanpur",
+              "Boaljur",
+              "Burungabazar",
+              "Goalabazar",
+              "Doyamir",
+              "Usmanpur",
+              "Dewanbazar",
+              "Westgouripur",
+              "Eastgouripur",
+              "Balaganj",
+              "Sadipur"
+            ]
+          },
+          {
+            "subDistrictName": "Beanibazar",
+            "subDistData": [
+              "Tilpara",
+              "Alinagar",
+              "Charkhai",
+              "Dubag",
+              "Sheola",
+              "Kurarbazar",
+              "Mathiura",
+              "Mullapur",
+              "Muria",
+              "Lauta"
+            ]
+          },
+          {
+            "subDistrictName": "Bishwanath",
+            "subDistData": [
+              "Rampasha",
+              "Lamakazi",
+              "Khajanchi",
+              "Alankari",
+              "Dewkalash",
+              "Bishwanath",
+              "Doshghar",
+              "Daulatpur"
+            ]
+          },
+          {
+            "subDistrictName": "Companiganj",
+            "subDistData": [
+              "Telikhal",
+              "Islampurpaschim",
+              "Islampurpurba",
+              "Isakalas",
+              "Uttorronikhai",
+              "Dakkinronikhai"
+            ]
+          },
+          {
+            "subDistrictName": "Fenchuganj",
+            "subDistData": [
+              "Ghilachora",
+              "1nofenchuganj",
+              "Uttarkushiara",
+              "Uttarfenchuganj",
+              "Maijgaon"
+            ]
+          },
+          {
+            "subDistrictName": "Golapganj",
+            "subDistData": [
+              "Golapganj",
+              "Fulbari",
+              "Lakshmipasha",
+              "Budhbaribazar",
+              "Dhakadakshin",
+              "Sharifganj",
+              "Uttarbadepasha",
+              "Lakshanaband",
+              "Bhadeshwar",
+              "Westamura"
+            ]
+          },
+          {
+            "subDistrictName": "Gowainghat",
+            "subDistData": [
+              "Fothepur",
+              "Rustampur",
+              "Paschimjaflong",
+              "Purbajaflong",
+              "Lengura",
+              "Alirgaon",
+              "Nandirgaon",
+              "Towakul",
+              "Daubari"
+            ]
+          },
+          {
+            "subDistrictName": "Jaintiapur",
+            "subDistData": [
+              "Nijpat",
+              "Jaintapur",
+              "Charikatha",
+              "Darbast",
+              "Fatehpur",
+              "Chiknagul"
+            ]
+          },
+          {
+            "subDistrictName": "Kanaighat",
+            "subDistData": [
+              "Rajagonj",
+              "Lakshiprashadpurbo",
+              "Lakshiprashadpashim",
+              "Digirparpurbo",
+              "Satbakh",
+              "Barachotul",
+              "Kanaighat",
+              "Dakhinbanigram",
+              "Jinghabari"
+            ]
+          },
+          {
+            "subDistrictName": "Sylhetsadar",
+            "subDistData": [
+              "Jalalabad",
+              "Hatkhula",
+              "Khadimnagar",
+              "Khadimpara",
+              "Tultikor",
+              "Tukerbazar",
+              "Mugolgaon",
+              "Kandigaon"
+            ]
+          },
+          {
+            "subDistrictName": "Zakiganj",
+            "subDistData": [
+              "Manikpur",
+              "Sultanpur",
+              "Barohal",
+              "Birorsri",
+              "Kajalshah",
+              "Kholachora",
+              "Zakiganj",
+              "Barothakuri",
+              "Kaskanakpur"
+            ]
+          },
+          {
+            "subDistrictName": "Dakshinsurma",
+            "subDistData": [
+              "Lalabazar",
+              "Moglabazar",
+              "Boroikandi",
+              "Silam",
+              "Daudpur",
+              "Mollargaon",
+              "Kuchai",
+              "Kamalbazar",
+              "Jalalpur",
+              "Tetli"
+            ]
+          },
+          {
+            "subDistrictName": "Osmaninagar",
+            "subDistData": []
+          }
+        ]
+      },
+      {
+        "districtName": "Moulvibazar",
+        "distData": [
+          {
+            "subDistrictName": "Barlekha",
+            "subDistData": [
+              "Talimpur",
+              "Borni",
+              "Dasherbazar",
+              "Nizbahadurpur",
+              "Shahbajpuruttar",
+              "Shahbajpurdakshin",
+              "Talimpur",
+              "Baralekha",
+              "Dakshinbhaguttar",
+              "Dakshinbhagdakshin",
+              "Sujanagar"
+            ]
+          },
+          {
+            "subDistrictName": "Kamolganj",
+            "subDistData": [
+              "Adampur",
+              "Patanushar",
+              "Madhabpur",
+              "Rahimpur",
+              "Shamshernagar",
+              "Kamalgonj",
+              "Islampur",
+              "Munshibazarup3",
+              "Alinagar"
+            ]
+          },
+          {
+            "subDistrictName": "Kulaura",
+            "subDistData": [
+              "Baramchal",
+              "Bhukshimail",
+              "Joychandi",
+              "Brammanbazar",
+              "Kadipur",
+              "Kulaura",
+              "Rauthgaon",
+              "Tilagaon",
+              "Sharifpur",
+              "Prithimpassa",
+              "Kormodha",
+              "Bhatera",
+              "Hazipur"
+            ]
+          },
+          {
+            "subDistrictName": "Moulvibazarsadar",
+            "subDistData": [
+              "Amtail",
+              "Khalilpur",
+              "Monumukh",
+              "Kamalpur",
+              "Uparkagabala",
+              "Akhailkura",
+              "Ekatuna",
+              "Chadnighat",
+              "Konokpur",
+              "Nazirabad",
+              "Mostafapur",
+              "Giasnagar"
+            ]
+          },
+          {
+            "subDistrictName": "Rajnagar",
+            "subDistData": [
+              "Fotepur",
+              "Uttorbhag",
+              "Munsibazar",
+              "Panchgaon",
+              "Rajnagar",
+              "Tengra",
+              "Kamarchak",
+              "Munsurnagar"
+            ]
+          },
+          {
+            "subDistrictName": "Sreemangal",
+            "subDistData": [
+              "Mirzapur",
+              "Bhunabir",
+              "Sreemangal",
+              "Sindurkhan",
+              "Kalapur",
+              "Ashidron",
+              "Rajghat",
+              "Kalighat",
+              "Satgaon"
+            ]
+          },
+          {
+            "subDistrictName": "Juri",
+            "subDistData": [
+              "Jafornagar",
+              "Westjuri",
+              "Gualbari",
+              "Sagornal",
+              "Fultola",
+              "Eastjuri"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Habiganj",
+        "distData": [
+          {
+            "subDistrictName": "Nabiganj",
+            "subDistData": [
+              "Barabhakoirpaschim",
+              "Barabhakoirpurba",
+              "Inatganj",
+              "Digholbak",
+              "Aushkandi",
+              "Kurshi",
+              "Kargoan",
+              "Nabiganjsadar",
+              "Bausha",
+              "Debparra",
+              "Gaznaipur",
+              "Kaliarbhanga",
+              "Paniumda"
+            ]
+          },
+          {
+            "subDistrictName": "Bahubal",
+            "subDistData": [
+              "Snanghat",
+              "Putijuri",
+              "Satkapon",
+              "Bahubalsadar",
+              "Lamatashi",
+              "Mirpur",
+              "Bhadeshwar"
+            ]
+          },
+          {
+            "subDistrictName": "Ajmiriganj",
+            "subDistData": [
+              "Shibpasha",
+              "Kakailsao",
+              "Ajmiriganjsadar",
+              "Badolpur",
+              "Jolsuka"
+            ]
+          },
+          {
+            "subDistrictName": "Baniachong",
+            "subDistData": [
+              "Baniachongnortheast",
+              "Baniachongnorthwest",
+              "Baniachongsoutheast",
+              "Baniachongsouthwest",
+              "Daulatpur",
+              "Khagaura",
+              "Baraiuri",
+              "Kagapasha",
+              "Pukra",
+              "Subidpur",
+              "Makrampur",
+              "Sujatpur",
+              "Mandari",
+              "Muradpur",
+              "Pailarkandi"
+            ]
+          },
+          {
+            "subDistrictName": "Lakhai",
+            "subDistData": [
+              "Lakhai",
+              "Murakari",
+              "Muriauk",
+              "Bamoi",
+              "Karab",
+              "Bullaup6"
+            ]
+          },
+          {
+            "subDistrictName": "Chunarughat",
+            "subDistData": [
+              "Gazipur",
+              "Ahammadabad",
+              "Deorgach",
+              "Paikpara",
+              "Shankhala",
+              "Chunarughat",
+              "Ubahata",
+              "Shatiajuri",
+              "Ranigaon",
+              "Mirashi"
+            ]
+          },
+          {
+            "subDistrictName": "Habiganjsadar",
+            "subDistData": [
+              "Lukra",
+              "Richi",
+              "Teghoria",
+              "Poil",
+              "Gopaya",
+              "Rajiura",
+              "Nijampur",
+              "Laskerpur"
+            ]
+          },
+          {
+            "subDistrictName": "Madhabpur",
+            "subDistData": [
+              "Dharmaghar",
+              "Choumohani",
+              "Bahara",
+              "Adaoir",
+              "Andiura",
+              "Shahjahanpur",
+              "Jagadishpur",
+              "Bulla",
+              "Noapara",
+              "Chhatiain",
+              "Bagashura"
+            ]
+          },
+          {
+            "subDistrictName": "Shayestaganj",
+            "subDistData": [
+              "Nurpur",
+              "Shayestaganj",
+              "Brahmandura"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Sunamganj",
+        "distData": [
+          {
+            "subDistrictName": "Sadar",
+            "subDistData": [
+              "Jahangirnagar",
+              "Rangarchar",
+              "Aptabnagar",
+              "Gourarang",
+              "Mollapara",
+              "Laxmansree",
+              "Kathair",
+              "Surma",
+              "Mohonpur"
+            ]
+          },
+          {
+            "subDistrictName": "Southsunamganj",
+            "subDistData": [
+              "Shimulbak",
+              "Paschimpagla",
+              "Joykalash",
+              "Purbapagla",
+              "Patharia",
+              "Purbabirgaon",
+              "Dargapasha",
+              "Paschimbirgaon"
+            ]
+          },
+          {
+            "subDistrictName": "Bishwambarpur",
+            "subDistData": [
+              "Palash",
+              "Solukabad",
+              "Dhanpur",
+              "Badaghatsouth",
+              "Fatepur"
+            ]
+          },
+          {
+            "subDistrictName": "Chhatak",
+            "subDistData": [
+              "Islampur",
+              "Noarai",
+              "Chhataksadar",
+              "Kalaruka",
+              "Gobindganjsyedergaon",
+              "Chhailaafjalabad",
+              "Khurmanorth",
+              "Khurmasouth",
+              "Chormohalla",
+              "Jauwabazar",
+              "Singchapair",
+              "Dolarbazar",
+              "Bhatgaon"
+            ]
+          },
+          {
+            "subDistrictName": "Jagannathpur",
+            "subDistData": [
+              "Kolkolia",
+              "Patli",
+              "Mirpur",
+              "Chilauraholdipur",
+              "Raniganj",
+              "Syedpurshaharpara",
+              "Asharkandi",
+              "Pailgaon"
+            ]
+          },
+          {
+            "subDistrictName": "Dowarabazar",
+            "subDistData": [
+              "Banglabazar",
+              "Norsingpur",
+              "Dowarabazar",
+              "Mannargaon",
+              "Pandargaon",
+              "Dohalia",
+              "Laxmipur",
+              "Boglabazar",
+              "Surma2"
+            ]
+          },
+          {
+            "subDistrictName": "Tahirpur",
+            "subDistData": [
+              "Sreepurnorth",
+              "Sreepursouth",
+              "Bordalsouth",
+              "Bordalnorth",
+              "Badaghat",
+              "Tahirpursadar",
+              "Balijuri"
+            ]
+          },
+          {
+            "subDistrictName": "Dharmapasha",
+            "subDistData": [
+              "Bongshikundanorth",
+              "Bongshikundasouth",
+              "Chamordani",
+              "Madhyanagar",
+              "Paikurati",
+              "Selbarash",
+              "Dharmapashasadar",
+              "Joyasree",
+              "Sukhairrajapurnorth",
+              "Sukhairrajapursouth"
+            ]
+          },
+          {
+            "subDistrictName": "Jamalganj",
+            "subDistData": [
+              "Beheli",
+              "Sachnabazar",
+              "Bhimkhali",
+              "Fenerbak",
+              "Jamalganjsadar"
+            ]
+          },
+          {
+            "subDistrictName": "Shalla",
+            "subDistData": [
+              "Atgaon",
+              "Habibpur",
+              "Bahara",
+              "Shallasadar"
+            ]
+          },
+          {
+            "subDistrictName": "Derai",
+            "subDistData": [
+              "Rafinagar",
+              "Bhatipara",
+              "Rajanagar",
+              "Charnarchar",
+              "Deraisarmangal",
+              "Karimpur",
+              "Jagddol",
+              "Taral",
+              "Kulanj"
+            ]
+          },
+          {
+            "subDistrictName": "Madhyanagar",
+            "subDistData": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "divisionName": "Mymensingh",
+    "divData": [
+      {
+        "districtName": "Sherpur",
+        "distData": [
+          {
+            "subDistrictName": "Sherpursadar",
+            "subDistData": [
+              "Kamararchor",
+              "Chorsherpur",
+              "Bajitkhila",
+              "Gajirkhamar",
+              "Dhola",
+              "Pakuriya",
+              "Vatshala",
+              "Losmonpur",
+              "Rouha",
+              "Kamariya",
+              "Chormochoriya",
+              "Chorpokhimari",
+              "Betmarighughurakandi",
+              "Balairchar"
+            ]
+          },
+          {
+            "subDistrictName": "Nalitabari",
+            "subDistData": [
+              "Puraga",
+              "Nonni",
+              "Morichpuran",
+              "Rajnogor",
+              "Nayabil",
+              "Ramchondrokura",
+              "Kakorkandhi",
+              "Nalitabari",
+              "Juganiya",
+              "Bagber",
+              "Koloshpar",
+              "Rupnarayankura"
+            ]
+          },
+          {
+            "subDistrictName": "Sreebordi",
+            "subDistData": [
+              "Ranishimul",
+              "Singabaruna",
+              "Kakilakura",
+              "Tatihati",
+              "Gosaipur",
+              "Sreebordi",
+              "Bhelua",
+              "Khariakazirchar",
+              "Kurikahonia",
+              "Garjaripa"
+            ]
+          },
+          {
+            "subDistrictName": "Nokla",
+            "subDistData": [
+              "Gonopoddi",
+              "Nokla",
+              "Urpha",
+              "Gourdwar",
+              "Baneshwardi",
+              "Pathakata",
+              "Talki",
+              "Choraustadhar",
+              "Chandrakona"
+            ]
+          },
+          {
+            "subDistrictName": "Jhenaigati",
+            "subDistData": [
+              "Kansa",
+              "Dansail",
+              "Nolkura",
+              "Gouripur",
+              "Jhenaigati",
+              "Hatibandha",
+              "Malijhikanda"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Mymensingh",
+        "distData": [
+          {
+            "subDistrictName": "Fulbaria",
+            "subDistData": [
+              "Deukhola",
+              "Naogaon",
+              "Putijana",
+              "Kushmail",
+              "Fulbaria",
+              "Bakta",
+              "Rangamatia",
+              "Enayetpur",
+              "Kaladaha",
+              "Radhakanai",
+              "Asimpatuli",
+              "Vobanipur",
+              "Balian"
+            ]
+          },
+          {
+            "subDistrictName": "Trishal",
+            "subDistData": [
+              "Dhanikhola",
+              "Bailor",
+              "Kanthal",
+              "Kanihari",
+              "Trishal",
+              "Harirampur",
+              "Www",
+              "Balipara",
+              "Mokshapur",
+              "Mathbari",
+              "Amirabari",
+              "Rampur"
+            ]
+          },
+          {
+            "subDistrictName": "Bhaluka",
+            "subDistData": [
+              "Uthura",
+              "Meduari",
+              "Varadoba",
+              "Dhitpur",
+              "Dakatia",
+              "Birunia",
+              "Bhaluka",
+              "Mallikbari",
+              "Kachina",
+              "Habirbari",
+              "Rajoi"
+            ]
+          },
+          {
+            "subDistrictName": "Muktagacha",
+            "subDistData": [
+              "Dulla",
+              "Borogram",
+              "Tarati",
+              "Kumargata",
+              "Basati",
+              "Mankon",
+              "Ghoga",
+              "Daogaon",
+              "Kashimpur",
+              "Kheruajani"
+            ]
+          },
+          {
+            "subDistrictName": "Mymensinghsadar",
+            "subDistData": [
+              "Austadhar",
+              "Bororchar",
+              "Dapunia",
+              "Aqua",
+              "Khagdohor",
+              "Charnilaxmia",
+              "Kushtia",
+              "Paranganj",
+              "Sirta",
+              "Charishwardia",
+              "Ghagra",
+              "Vabokhali",
+              "Boyra"
+            ]
+          },
+          {
+            "subDistrictName": "Dhobaura",
+            "subDistData": [
+              "Dakshinmaijpara",
+              "Gamaritola",
+              "Dhobaura",
+              "Porakandulia",
+              "Goatala",
+              "Ghoshgaon",
+              "Baghber"
+            ]
+          },
+          {
+            "subDistrictName": "Phulpur",
+            "subDistData": [
+              "Rambhadrapur",
+              "Sondhara",
+              "Vaitkandi",
+              "Singheshwar",
+              "Phulpur",
+              "Banihala",
+              "Biska",
+              "Baola",
+              "Payari",
+              "Balia",
+              "Rahimganj",
+              "Balikha",
+              "Kakni",
+              "Dhakua",
+              "Rupasi",
+              "Tarakanda",
+              "Galagaon",
+              "Kamargaon",
+              "Kamaria",
+              "Rampurup2"
+            ]
+          },
+          {
+            "subDistrictName": "Haluaghat",
+            "subDistData": [
+              "Bhubankura",
+              "Jugli",
+              "Kaichapur",
+              "Haluaghat",
+              "Gazirbhita",
+              "Bildora",
+              "Sakuai",
+              "Narail",
+              "Dhara",
+              "Dhurail",
+              "Amtoil",
+              "Swadeshi"
+            ]
+          },
+          {
+            "subDistrictName": "Gouripur",
+            "subDistData": [
+              "Sahanati",
+              "Achintapur",
+              "Mailakanda",
+              "Bokainagar",
+              "Gouripur",
+              "Maoha",
+              "Ramgopalpur",
+              "Douhakhola",
+              "Bhangnamari",
+              "Sidhla"
+            ]
+          },
+          {
+            "subDistrictName": "Gafargaon",
+            "subDistData": [
+              "Rasulpur",
+              "Barobaria",
+              "Charalgi",
+              "Saltia",
+              "Raona",
+              "Longair",
+              "Paithol",
+              "Gafargaon",
+              "Josora",
+              "Moshakhali",
+              "Panchbagh",
+              "Usthi",
+              "Dotterbazar",
+              "Niguari",
+              "Tangabo"
+            ]
+          },
+          {
+            "subDistrictName": "Iswarganj",
+            "subDistData": [
+              "Iswarganj",
+              "Sarisha",
+              "Sohagi",
+              "Atharabari",
+              "Rajibpur",
+              "Maijbagh",
+              "Magtula",
+              "Jatia",
+              "Uchakhila",
+              "Tarundia",
+              "Barahit"
+            ]
+          },
+          {
+            "subDistrictName": "Nandail",
+            "subDistData": [
+              "Batagoir",
+              "Nandail",
+              "Chandipasha",
+              "Gangail",
+              "Rajgati",
+              "Muajjempur",
+              "Sherpur",
+              "Singroil",
+              "Achargaon",
+              "Mushulli",
+              "Kharua",
+              "Jahangirpur"
+            ]
+          },
+          {
+            "subDistrictName": "Tarakanda",
+            "subDistData": []
+          }
+        ]
+      },
+      {
+        "districtName": "Jamalpur",
+        "distData": [
+          {
+            "subDistrictName": "Jamalpursadar",
+            "subDistData": [
+              "Kendua",
+              "Sharifpur",
+              "Laxirchar",
+              "Tolshirchar",
+              "Itail",
+              "Narundi",
+              "Ghorada",
+              "Bashchara",
+              "Ranagacha",
+              "Sheepur",
+              "Shahbajpur",
+              "Titpalla",
+              "Mesta",
+              "Digpait",
+              "Rashidpur"
+            ]
+          },
+          {
+            "subDistrictName": "Melandah",
+            "subDistData": [
+              "Durmot",
+              "Kulia",
+              "Mahmudpur",
+              "Nangla",
+              "Nayanagar",
+              "Adra",
+              "Charbanipakuria",
+              "Fulkucha",
+              "Ghuserpara",
+              "Jhaugara",
+              "Shuampur"
+            ]
+          },
+          {
+            "subDistrictName": "Islampur",
+            "subDistData": [
+              "Kulkandi",
+              "Belghacha",
+              "Chinaduli",
+              "Shapdari",
+              "Noarpara",
+              "Islampur",
+              "Partharshi",
+              "Palabandha",
+              "Gualerchar",
+              "Gaibandha",
+              "Charputimari",
+              "Chargualini"
+            ]
+          },
+          {
+            "subDistrictName": "Dewangonj",
+            "subDistData": [
+              "Dungdhara",
+              "Charamkhawa",
+              "Parramrampur",
+              "Hatibanga",
+              "Bahadurabad",
+              "Chikajani",
+              "Chukaibari",
+              "Dewangonj"
+            ]
+          },
+          {
+            "subDistrictName": "Sarishabari",
+            "subDistData": [
+              "Satpoa",
+              "Pogaldigha",
+              "Doail",
+              "Aona",
+              "Pingna",
+              "Bhatara",
+              "Kamrabad",
+              "Mahadan"
+            ]
+          },
+          {
+            "subDistrictName": "Madarganj",
+            "subDistData": [
+              "Charpakerdah",
+              "Karaichara",
+              "Gunaritala",
+              "Balijuri",
+              "Jorekhali",
+              "Adarvita",
+              "Sidhuli"
+            ]
+          },
+          {
+            "subDistrictName": "Bokshiganj",
+            "subDistData": [
+              "Danua",
+              "Bagarchar",
+              "Battajore",
+              "Shadurpara",
+              "Bakshigonj",
+              "Nilakhia",
+              "Merurchar"
+            ]
+          }
+        ]
+      },
+      {
+        "districtName": "Netrokona",
+        "distData": [
+          {
+            "subDistrictName": "Barhatta",
+            "subDistData": [
+              "Asma",
+              "Chhiram",
+              "Baushi",
+              "Barhatta",
+              "Raypur",
+              "Sahata",
+              "Singdha"
+            ]
+          },
+          {
+            "subDistrictName": "Durgapur",
+            "subDistData": [
+              "Durgapur",
+              "Kakoirgora",
+              "Kullagora",
+              "Chandigarh",
+              "Birisiri",
+              "Bakaljora",
+              "Gawkandia"
+            ]
+          },
+          {
+            "subDistrictName": "Kendua",
+            "subDistData": [
+              "Asujia",
+              "Dalpa",
+              "Goraduba",
+              "Gonda",
+              "Sandikona",
+              "Maska",
+              "Bolaishimul",
+              "Noapara",
+              "Kandiura",
+              "Chirang",
+              "Roailbariamtala",
+              "Paikura",
+              "Muzafarpur"
+            ]
+          },
+          {
+            "subDistrictName": "Atpara",
+            "subDistData": [
+              "Shormushia",
+              "Shunoi",
+              "Lunesshor",
+              "Baniyajan",
+              "Teligati",
+              "Duoj",
+              "Sukhari"
+            ]
+          },
+          {
+            "subDistrictName": "Madan",
+            "subDistData": [
+              "Fathepur",
+              "Nayekpur",
+              "Teosree",
+              "Magan",
+              "Gobindasree",
+              "Madan",
+              "Chandgaw",
+              "Kytail"
+            ]
+          },
+          {
+            "subDistrictName": "Khaliajuri",
+            "subDistData": [
+              "Krishnapur",
+              "Nogor",
+              "Chakua",
+              "Khaliajuri",
+              "Mendipur",
+              "Gazipur"
+            ]
+          },
+          {
+            "subDistrictName": "Kalmakanda",
+            "subDistData": [
+              "Koilati",
+              "Najirpur",
+              "Pogla",
+              "Kolmakanda",
+              "Rongchati",
+              "Lengura",
+              "Borokhapon",
+              "Kharnoi"
+            ]
+          },
+          {
+            "subDistrictName": "Mohongonj",
+            "subDistData": [
+              "Borokashiabirampur",
+              "Borotolibanihari",
+              "Tetulia",
+              "Maghansiadar",
+              "Somajsohildeo",
+              "Suair",
+              "Gaglajur"
+            ]
+          },
+          {
+            "subDistrictName": "Purbadhala",
+            "subDistData": [
+              "Khalishaur",
+              "Ghagra",
+              "Jaria",
+              "Narandia",
+              "Bishkakuni",
+              "Bairaty",
+              "Hogla",
+              "Gohalakanda",
+              "Dhalamulgaon",
+              "Agia",
+              "Purbadhala"
+            ]
+          },
+          {
+            "subDistrictName": "Netrokonasadar",
+            "subDistData": [
+              "Chollisha",
+              "Kailati",
+              "Dokkhinbishiura",
+              "Modonpur",
+              "Amtola",
+              "Lokkhiganj",
+              "Singherbangla",
+              "Thakurakona",
+              "Mougati",
+              "Rouha",
+              "Medni",
+              "Kaliaragabragati"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
